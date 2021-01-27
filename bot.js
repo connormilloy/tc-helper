@@ -37,6 +37,8 @@ client.on('message', async message => {
             message.channel.send(`You don't have permission to use this command, ${message.author}.`);
             user.send(`The $whereami command was just used in one of my servers.`);
         }
+
+        console.log("!!! WHEREAMI USED !!!");
     }
     if(command ==="help"){
         let content = "";
