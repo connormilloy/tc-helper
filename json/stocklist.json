@@ -1,0 +1,126 @@
+[
+    {
+        "id": "TSCE",
+        "info": "Torn City Stock Exchange"
+    },
+    {
+        "id": "TSBC",
+        "info": "Torn City and Shanghai Banking Corporation"
+    },
+    {
+        "id": "TCB",
+        "info": "Torn City Investment Banking"
+    },
+    {
+        "id": "SYS",
+        "info": "Syscore MFG"
+    },
+    {
+        "id": "SLAG",
+        "info": "Society and Legal Authorities Group"
+    },
+    {
+        "id": "IOU",
+        "info": "Insured On Us"
+    },
+    {
+        "id": "GRN",
+        "info": "Grain"
+    },
+    {
+        "id": "TCHS",
+        "info": "Torn City Health Service"
+    },
+    {
+        "id": "YAZ",
+        "info": "Yazoo"
+    },
+    {
+        "id": "TCT",
+        "info": "Torn City Times"
+    },
+    {
+        "id": "CNC",
+        "info": "Crude & Co."
+    },
+    {
+        "id": "MSG",
+        "info": "Messaging Inc."
+    },
+    {
+        "id": "TMI",
+        "info": "TC Music Industries"
+    },
+    {
+        "id": "TCP",
+        "info": "TC Media Productions"
+    },
+    {
+        "id": "IIL",
+        "info": "I Industries Ltd."
+    },
+    {
+        "id": "FHG",
+        "info": "Feathery Hotel Group"
+    },
+    {
+        "id": "SYM",
+        "info": "Symbiotic Ltd."
+    },
+    {
+        "id": "LSC",
+        "info": "Lucky Shot Casino"
+    },
+    {
+        "id": "PRN",
+        "info": "Performance Ribaldry Network"
+    },
+    {
+        "id": "EWM",
+        "info": "Eaglewood Mercenary"
+    },
+    {
+        "id": "TCM",
+        "info": "Torn City Motors"
+    },
+    {
+        "id": "ELBT",
+        "info": "The Empty Lunchbox Building Traders"
+    },
+    {
+        "id": "HRG",
+        "info": "Home Retail Group"
+    },
+    {
+        "id": "TGP",
+        "info": "Tell Group Plc."
+    },
+    {
+        "id": "WSSB",
+        "info": "West Side South Bank University"
+    },
+    {
+        "id": "ISTC",
+        "info": "International School TC"
+    },
+    {
+        "id": "BAG",
+        "info": "Big Al's Gun Shop"
+    },
+    {
+        "id": "EVL",
+        "info": "Evil Ducks Candy Corp"
+    },
+    {
+        "id": "MCS",
+        "info": "Mc Smoogle Corp"
+    },
+    {
+        "id": "WLT",
+        "info": "Wind Lines Travel"
+    },
+    {
+        "id": "TCC",
+        "info": "Torn City Clothing"
+    }
+]

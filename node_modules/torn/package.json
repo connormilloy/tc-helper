@@ -1,0 +1,28 @@
+{
+	"name": "torn",
+	"version": "1.0.0",
+	"description": "A Typescript wrapper for the Torn API",
+	"main": "dist/index.js",
+	"module": "dist/index.mjs",
+	"author": "maukers <me@maukers.com>",
+	"license": "MIT",
+	"types": "types",
+	"scripts": {
+		"build": "rollup --config",
+		"build-types": "tsc --emitDeclarationOnly",
+		"prepare": "npm run build && npm run build-types"
+	},
+	"devDependencies": {
+		"@rollup/plugin-sucrase": "^3.0.0",
+		"jasmine": "^3.5.0",
+		"rollup": "^1.27.5",
+		"rollup-plugin-terser": "^5.1.3",
+		"sucrase": "^3.11.0",
+		"typescript": "^3.7.4"
+	},
+	"files": [
+		"types",
+		"dist/index.js",
+		"dist/index.mjs"
+	]
+}

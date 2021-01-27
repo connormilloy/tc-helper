@@ -1,0 +1,5733 @@
+{
+		"items": {
+				"1": {
+					"name": "Hammer",
+					"market_value": 45,
+					"image": "https://www.torn.com/images/items/1/large.png"
+				},
+				"2": {
+					"name": "Baseball Bat",
+					"market_value": 119,
+					"image": "https://www.torn.com/images/items/2/large.png"
+				},
+				"3": {
+					"name": "Crowbar",
+					"market_value": 185,
+					"image": "https://www.torn.com/images/items/3/large.png"
+				},
+				"4": {
+					"name": "Knuckle Dusters",
+					"market_value": 499,
+					"image": "https://www.torn.com/images/items/4/large.png"
+				},
+				"5": {
+					"name": "Pen Knife",
+					"market_value": 709,
+					"image": "https://www.torn.com/images/items/5/large.png"
+				},
+				"6": {
+					"name": "Kitchen Knife",
+					"market_value": 2088,
+					"image": "https://www.torn.com/images/items/6/large.png"
+				},
+				"7": {
+					"name": "Dagger",
+					"market_value": 1405,
+					"image": "https://www.torn.com/images/items/7/large.png"
+				},
+				"8": {
+					"name": "Axe",
+					"market_value": 2839,
+					"image": "https://www.torn.com/images/items/8/large.png"
+				},
+				"9": {
+					"name": "Scimitar",
+					"market_value": 5319,
+					"image": "https://www.torn.com/images/items/9/large.png"
+				},
+				"10": {
+					"name": "Chainsaw",
+					"market_value": 11260,
+					"image": "https://www.torn.com/images/items/10/large.png"
+				},
+				"11": {
+					"name": "Samurai Sword",
+					"market_value": 52184,
+					"image": "https://www.torn.com/images/items/11/large.png"
+				},
+				"12": {
+					"name": "Glock 17",
+					"market_value": 259,
+					"image": "https://www.torn.com/images/items/12/large.png"
+				},
+				"13": {
+					"name": "Raven MP25",
+					"market_value": 335,
+					"image": "https://www.torn.com/images/items/13/large.png"
+				},
+				"14": {
+					"name": "Ruger 22/45",
+					"market_value": 654,
+					"image": "https://www.torn.com/images/items/14/large.png"
+				},
+				"15": {
+					"name": "Beretta M9",
+					"market_value": 1251,
+					"image": "https://www.torn.com/images/items/15/large.png"
+				},
+				"16": {
+					"name": "USP",
+					"market_value": 1786,
+					"image": "https://www.torn.com/images/items/16/large.png"
+				},
+				"17": {
+					"name": "Beretta 92FS",
+					"market_value": 3178,
+					"image": "https://www.torn.com/images/items/17/large.png"
+				},
+				"18": {
+					"name": "Fiveseven",
+					"market_value": 7880,
+					"image": "https://www.torn.com/images/items/18/large.png"
+				},
+				"19": {
+					"name": "Magnum",
+					"market_value": 14675,
+					"image": "https://www.torn.com/images/items/19/large.png"
+				},
+				"20": {
+					"name": "Desert Eagle",
+					"market_value": 34200,
+					"image": "https://www.torn.com/images/items/20/large.png"
+				},
+				"21": {
+					"name": "Dual 92G Berettas",
+					"market_value": 2519018,
+					"image": "https://www.torn.com/images/items/21/large.png"
+				},
+				"22": {
+					"name": "Sawed-Off Shotgun",
+					"market_value": 1590,
+					"image": "https://www.torn.com/images/items/22/large.png"
+				},
+				"23": {
+					"name": "Benelli M1 Tactical",
+					"market_value": 3042,
+					"image": "https://www.torn.com/images/items/23/large.png"
+				},
+				"24": {
+					"name": "MP5 Navy",
+					"market_value": 3712,
+					"image": "https://www.torn.com/images/items/24/large.png"
+				},
+				"25": {
+					"name": "P90",
+					"market_value": 6318,
+					"image": "https://www.torn.com/images/items/25/large.png"
+				},
+				"26": {
+					"name": "AK-47",
+					"market_value": 14534,
+					"image": "https://www.torn.com/images/items/26/large.png"
+				},
+				"27": {
+					"name": "M4A1 Colt Carbine",
+					"market_value": 12197,
+					"image": "https://www.torn.com/images/items/27/large.png"
+				},
+				"28": {
+					"name": "Benelli M4 Super",
+					"market_value": 20911,
+					"image": "https://www.torn.com/images/items/28/large.png"
+				},
+				"29": {
+					"name": "M16 A2 Rifle",
+					"market_value": 35966,
+					"image": "https://www.torn.com/images/items/29/large.png"
+				},
+				"30": {
+					"name": "Steyr AUG",
+					"market_value": 72244,
+					"image": "https://www.torn.com/images/items/30/large.png"
+				},
+				"31": {
+					"name": "M249 PARA LMG",
+					"market_value": 744266,
+					"image": "https://www.torn.com/images/items/31/large.png"
+				},
+				"32": {
+					"name": "Leather Vest",
+					"market_value": 2030,
+					"image": "https://www.torn.com/images/items/32/large.png"
+				},
+				"33": {
+					"name": "Police Vest",
+					"market_value": 7866,
+					"image": "https://www.torn.com/images/items/33/large.png"
+				},
+				"34": {
+					"name": "Bulletproof Vest",
+					"market_value": 33638,
+					"image": "https://www.torn.com/images/items/34/large.png"
+				},
+				"35": {
+					"name": "Box of Chocolate Bars",
+					"market_value": 501,
+					"image": "https://www.torn.com/images/items/35/large.png"
+				},
+				"36": {
+					"name": "Big Box of Chocolate Bars",
+					"market_value": 6805,
+					"image": "https://www.torn.com/images/items/36/large.png"
+				},
+				"37": {
+					"name": "Bag of Bon Bons",
+					"market_value": 542,
+					"image": "https://www.torn.com/images/items/37/large.png"
+				},
+				"38": {
+					"name": "Box of Bon Bons",
+					"market_value": 1256,
+					"image": "https://www.torn.com/images/items/38/large.png"
+				},
+				"39": {
+					"name": "Box of Extra Strong Mints",
+					"market_value": 537,
+					"image": "https://www.torn.com/images/items/39/large.png"
+				},
+				"40": {
+					"name": "Pack of Music CDs",
+					"market_value": 223,
+					"image": "https://www.torn.com/images/items/40/large.png"
+				},
+				"41": {
+					"name": "DVD Player",
+					"market_value": 927,
+					"image": "https://www.torn.com/images/items/41/large.png"
+				},
+				"42": {
+					"name": "MP3 Player",
+					"market_value": 244,
+					"image": "https://www.torn.com/images/items/42/large.png"
+				},
+				"43": {
+					"name": "CD Player",
+					"market_value": 352,
+					"image": "https://www.torn.com/images/items/43/large.png"
+				},
+				"44": {
+					"name": "Pack of Blank CDs : 100",
+					"market_value": 192,
+					"image": "https://www.torn.com/images/items/44/large.png"
+				},
+				"45": {
+					"name": "Hard Drive",
+					"market_value": 279,
+					"image": "https://www.torn.com/images/items/45/large.png"
+				},
+				"46": {
+					"name": "Tank Top",
+					"market_value": 155,
+					"image": "https://www.torn.com/images/items/46/large.png"
+				},
+				"47": {
+					"name": "Trainers",
+					"market_value": 231,
+					"image": "https://www.torn.com/images/items/47/large.png"
+				},
+				"48": {
+					"name": "Jacket",
+					"market_value": 223,
+					"image": "https://www.torn.com/images/items/48/large.png"
+				},
+				"49": {
+					"name": "Full Body Armor",
+					"market_value": 59758,
+					"image": "https://www.torn.com/images/items/49/large.png"
+				},
+				"50": {
+					"name": "Outer Tactical Vest",
+					"market_value": 746888,
+					"image": "https://www.torn.com/images/items/50/large.png"
+				},
+				"51": {
+					"name": "Plain Silver Ring",
+					"market_value": 486,
+					"image": "https://www.torn.com/images/items/51/large.png"
+				},
+				"52": {
+					"name": "Sapphire Ring",
+					"market_value": 504,
+					"image": "https://www.torn.com/images/items/52/large.png"
+				},
+				"53": {
+					"name": "Gold Ring",
+					"market_value": 364,
+					"image": "https://www.torn.com/images/items/53/large.png"
+				},
+				"54": {
+					"name": "Diamond Ring",
+					"market_value": 4260,
+					"image": "https://www.torn.com/images/items/54/large.png"
+				},
+				"55": {
+					"name": "Pearl Necklace",
+					"market_value": 24673,
+					"image": "https://www.torn.com/images/items/55/large.png"
+				},
+				"56": {
+					"name": "Silver Necklace",
+					"market_value": 964,
+					"image": "https://www.torn.com/images/items/56/large.png"
+				},
+				"57": {
+					"name": "Gold Necklace",
+					"market_value": 497,
+					"image": "https://www.torn.com/images/items/57/large.png"
+				},
+				"58": {
+					"name": "Plastic Watch",
+					"market_value": 823,
+					"image": "https://www.torn.com/images/items/58/large.png"
+				},
+				"59": {
+					"name": "Stainless Steel Watch",
+					"market_value": 4238,
+					"image": "https://www.torn.com/images/items/59/large.png"
+				},
+				"60": {
+					"name": "Gold Watch",
+					"market_value": 714,
+					"image": "https://www.torn.com/images/items/60/large.png"
+				},
+				"61": {
+					"name": "Personal Computer",
+					"market_value": 306,
+					"image": "https://www.torn.com/images/items/61/large.png"
+				},
+				"62": {
+					"name": "Microwave",
+					"market_value": 2518,
+					"image": "https://www.torn.com/images/items/62/large.png"
+				},
+				"63": {
+					"name": "Minigun",
+					"market_value": 1313579,
+					"image": "https://www.torn.com/images/items/63/large.png"
+				},
+				"64": {
+					"name": "Pack of Cuban Cigars",
+					"market_value": 404,
+					"image": "https://www.torn.com/images/items/64/large.png"
+				},
+				"65": {
+					"name": "Big TV Screen",
+					"market_value": 1269,
+					"image": "https://www.torn.com/images/items/65/large.png"
+				},
+				"66": {
+					"name": "Morphine",
+					"market_value": 21765,
+					"image": "https://www.torn.com/images/items/66/large.png"
+				},
+				"67": {
+					"name": "First Aid Kit",
+					"market_value": 12089,
+					"image": "https://www.torn.com/images/items/67/large.png"
+				},
+				"68": {
+					"name": "Small First Aid Kit",
+					"market_value": 8997,
+					"image": "https://www.torn.com/images/items/68/large.png"
+				},
+				"69": {
+					"name": "Simple Virus",
+					"market_value": 1552,
+					"image": "https://www.torn.com/images/items/69/large.png"
+				},
+				"70": {
+					"name": "Polymorphic Virus",
+					"market_value": 12895,
+					"image": "https://www.torn.com/images/items/70/large.png"
+				},
+				"71": {
+					"name": "Tunneling Virus",
+					"market_value": 11794,
+					"image": "https://www.torn.com/images/items/71/large.png"
+				},
+				"72": {
+					"name": "Armored Virus",
+					"market_value": 164000,
+					"image": "https://www.torn.com/images/items/72/large.png"
+				},
+				"73": {
+					"name": "Stealth Virus",
+					"market_value": 216892,
+					"image": "https://www.torn.com/images/items/73/large.png"
+				},
+				"74": {
+					"name": "Santa Hat '04",
+					"market_value": 0,
+					"image": "https://www.torn.com/images/items/74/large.png"
+				},
+				"75": {
+					"name": "Christmas Cracker '04",
+					"market_value": 0,
+					"image": "https://www.torn.com/images/items/75/large.png"
+				},
+				"76": {
+					"name": "Snow Cannon",
+					"market_value": 0,
+					"image": "https://www.torn.com/images/items/76/large.png"
+				},
+				"77": {
+					"name": "Toyota MR2",
+					"market_value": 28812,
+					"image": "https://www.torn.com/images/items/77/large.png"
+				},
+				"78": {
+					"name": "Honda NSX",
+					"market_value": 31745,
+					"image": "https://www.torn.com/images/items/78/large.png"
+				},
+				"79": {
+					"name": "Audi TT Quattro",
+					"market_value": 54619,
+					"image": "https://www.torn.com/images/items/79/large.png"
+				},
+				"80": {
+					"name": "BMW M5",
+					"market_value": 42436,
+					"image": "https://www.torn.com/images/items/80/large.png"
+				},
+				"81": {
+					"name": "BMW Z8",
+					"market_value": 79674,
+					"image": "https://www.torn.com/images/items/81/large.png"
+				},
+				"82": {
+					"name": "Chevrolet Corvette Z06",
+					"market_value": 50277,
+					"image": "https://www.torn.com/images/items/82/large.png"
+				},
+				"83": {
+					"name": "Dodge Charger",
+					"market_value": 68258,
+					"image": "https://www.torn.com/images/items/83/large.png"
+				},
+				"84": {
+					"name": "Pontiac Firebird",
+					"market_value": 59520,
+					"image": "https://www.torn.com/images/items/84/large.png"
+				},
+				"85": {
+					"name": "Ford GT40",
+					"market_value": 119809,
+					"image": "https://www.torn.com/images/items/85/large.png"
+				},
+				"86": {
+					"name": "Hummer H3",
+					"market_value": 20821,
+					"image": "https://www.torn.com/images/items/86/large.png"
+				},
+				"87": {
+					"name": "Audi S4",
+					"market_value": 12501,
+					"image": "https://www.torn.com/images/items/87/large.png"
+				},
+				"88": {
+					"name": "Honda Integra R",
+					"market_value": 14597,
+					"image": "https://www.torn.com/images/items/88/large.png"
+				},
+				"89": {
+					"name": "Honda Accord",
+					"market_value": 22832,
+					"image": "https://www.torn.com/images/items/89/large.png"
+				},
+				"90": {
+					"name": "Honda Civic",
+					"market_value": 8898,
+					"image": "https://www.torn.com/images/items/90/large.png"
+				},
+				"91": {
+					"name": "Volkswagen Beetle",
+					"market_value": 7517,
+					"image": "https://www.torn.com/images/items/91/large.png"
+				},
+				"92": {
+					"name": "Chevrolet Cavalier",
+					"market_value": 5204,
+					"image": "https://www.torn.com/images/items/92/large.png"
+				},
+				"93": {
+					"name": "Ford Mustang",
+					"market_value": 16859,
+					"image": "https://www.torn.com/images/items/93/large.png"
+				},
+				"94": {
+					"name": "Reliant Robin",
+					"market_value": 7557,
+					"image": "https://www.torn.com/images/items/94/large.png"
+				},
+				"95": {
+					"name": "Holden SS",
+					"market_value": 24864,
+					"image": "https://www.torn.com/images/items/95/large.png"
+				},
+				"96": {
+					"name": "Coat Hanger",
+					"market_value": 62806,
+					"image": "https://www.torn.com/images/items/96/large.png"
+				},
+				"97": {
+					"name": "Bunch of Flowers",
+					"market_value": 183,
+					"image": "https://www.torn.com/images/items/97/large.png"
+				},
+				"98": {
+					"name": "Neutrilux 2000",
+					"market_value": 0,
+					"image": "https://www.torn.com/images/items/98/large.png"
+				},
+				"99": {
+					"name": "Springfield 1911-A1",
+					"market_value": 298,
+					"image": "https://www.torn.com/images/items/99/large.png"
+				},
+				"100": {
+					"name": "Egg Propelled Launcher",
+					"market_value": 0,
+					"image": "https://www.torn.com/images/items/100/large.png"
+				},
+				"101": {
+					"name": "Bunny Suit",
+					"market_value": 0,
+					"image": "https://www.torn.com/images/items/101/large.png"
+				},
+				"102": {
+					"name": "Chocolate Egg '05",
+					"market_value": 0,
+					"image": "https://www.torn.com/images/items/102/large.png"
+				},
+				"103": {
+					"name": "Firewalk Virus",
+					"market_value": 36150,
+					"image": "https://www.torn.com/images/items/103/large.png"
+				},
+				"104": {
+					"name": "Playstation",
+					"market_value": 29000,
+					"image": "https://www.torn.com/images/items/104/large.png"
+				},
+				"105": {
+					"name": "Xbox",
+					"market_value": 30317,
+					"image": "https://www.torn.com/images/items/105/large.png"
+				},
+				"106": {
+					"name": "Parachute",
+					"market_value": 419000000,
+					"image": "https://www.torn.com/images/items/106/large.png"
+				},
+				"107": {
+					"name": "Trench Coat",
+					"market_value": 330409,
+					"image": "https://www.torn.com/images/items/107/large.png"
+				},
+				"108": {
+					"name": "9mm Uzi",
+					"market_value": 624167,
+					"image": "https://www.torn.com/images/items/108/large.png"
+				},
+				"109": {
+					"name": "RPG Launcher",
+					"market_value": 0,
+					"image": "https://www.torn.com/images/items/109/large.png"
+				},
+				"110": {
+					"name": "Leather Bullwhip",
+					"market_value": 757,
+					"image": "https://www.torn.com/images/items/110/large.png"
+				},
+				"111": {
+					"name": "Ninja Claws",
+					"market_value": 4939,
+					"image": "https://www.torn.com/images/items/111/large.png"
+				},
+				"112": {
+					"name": "Test Trophy",
+					"market_value": 0,
+					"image": "https://www.torn.com/images/items/112/large.png"
+				},
+				"113": {
+					"name": "Pet Rock",
+					"market_value": 0,
+					"image": "https://www.torn.com/images/items/113/large.png"
+				},
+				"114": {
+					"name": "Non-Anon Doll",
+					"market_value": 0,
+					"image": "https://www.torn.com/images/items/114/large.png"
+				},
+				"115": {
+					"name": "Poker Doll",
+					"market_value": 0,
+					"image": "https://www.torn.com/images/items/115/large.png"
+				},
+				"116": {
+					"name": "Yoda Figurine",
+					"market_value": 0,
+					"image": "https://www.torn.com/images/items/116/large.png"
+				},
+				"117": {
+					"name": "Trojan Horse",
+					"market_value": 0,
+					"image": "https://www.torn.com/images/items/117/large.png"
+				},
+				"118": {
+					"name": "Evil Doll",
+					"market_value": 0,
+					"image": "https://www.torn.com/images/items/118/large.png"
+				},
+				"119": {
+					"name": "Rubber Ducky of Doom",
+					"market_value": 0,
+					"image": "https://www.torn.com/images/items/119/large.png"
+				},
+				"120": {
+					"name": "Teppic Bear",
+					"market_value": 0,
+					"image": "https://www.torn.com/images/items/120/large.png"
+				},
+				"121": {
+					"name": "RockerHead Doll",
+					"market_value": 0,
+					"image": "https://www.torn.com/images/items/121/large.png"
+				},
+				"122": {
+					"name": "Mouser Doll",
+					"market_value": 0,
+					"image": "https://www.torn.com/images/items/122/large.png"
+				},
+				"123": {
+					"name": "Elite Action Man",
+					"market_value": 0,
+					"image": "https://www.torn.com/images/items/123/large.png"
+				},
+				"124": {
+					"name": "Toy Reactor",
+					"market_value": 0,
+					"image": "https://www.torn.com/images/items/124/large.png"
+				},
+				"125": {
+					"name": "Royal Doll",
+					"market_value": 0,
+					"image": "https://www.torn.com/images/items/125/large.png"
+				},
+				"126": {
+					"name": "Blue Dragon",
+					"market_value": 0,
+					"image": "https://www.torn.com/images/items/126/large.png"
+				},
+				"127": {
+					"name": "China Tea Set",
+					"market_value": 0,
+					"image": "https://www.torn.com/images/items/127/large.png"
+				},
+				"128": {
+					"name": "Mufasa Toy",
+					"market_value": 0,
+					"image": "https://www.torn.com/images/items/128/large.png"
+				},
+				"129": {
+					"name": "Dozen Roses",
+					"market_value": 310,
+					"image": "https://www.torn.com/images/items/129/large.png"
+				},
+				"130": {
+					"name": "Skanky Doll",
+					"market_value": 0,
+					"image": "https://www.torn.com/images/items/130/large.png"
+				},
+				"131": {
+					"name": "Lego Hurin",
+					"market_value": 0,
+					"image": "https://www.torn.com/images/items/131/large.png"
+				},
+				"132": {
+					"name": "Mystical Sphere",
+					"market_value": 0,
+					"image": "https://www.torn.com/images/items/132/large.png"
+				},
+				"133": {
+					"name": "10 Ton Pacifier",
+					"market_value": 0,
+					"image": "https://www.torn.com/images/items/133/large.png"
+				},
+				"134": {
+					"name": "Horse",
+					"market_value": 0,
+					"image": "https://www.torn.com/images/items/134/large.png"
+				},
+				"135": {
+					"name": "Uriel's Speakers",
+					"market_value": 0,
+					"image": "https://www.torn.com/images/items/135/large.png"
+				},
+				"136": {
+					"name": "Strife Clown",
+					"market_value": 0,
+					"image": "https://www.torn.com/images/items/136/large.png"
+				},
+				"137": {
+					"name": "Locked Teddy",
+					"market_value": 0,
+					"image": "https://www.torn.com/images/items/137/large.png"
+				},
+				"138": {
+					"name": "Riddle's Bat",
+					"market_value": 0,
+					"image": "https://www.torn.com/images/items/138/large.png"
+				},
+				"139": {
+					"name": "Soup Nazi Doll",
+					"market_value": 0,
+					"image": "https://www.torn.com/images/items/139/large.png"
+				},
+				"140": {
+					"name": "Pouncer Doll",
+					"market_value": 0,
+					"image": "https://www.torn.com/images/items/140/large.png"
+				},
+				"141": {
+					"name": "Spammer Doll",
+					"market_value": 0,
+					"image": "https://www.torn.com/images/items/141/large.png"
+				},
+				"142": {
+					"name": "Cookie Jar",
+					"market_value": 0,
+					"image": "https://www.torn.com/images/items/142/large.png"
+				},
+				"143": {
+					"name": "Vanity Mirror",
+					"market_value": 0,
+					"image": "https://www.torn.com/images/items/143/large.png"
+				},
+				"144": {
+					"name": "Banana Phone",
+					"market_value": 0,
+					"image": "https://www.torn.com/images/items/144/large.png"
+				},
+				"145": {
+					"name": "Xbox 360",
+					"market_value": 29986,
+					"image": "https://www.torn.com/images/items/145/large.png"
+				},
+				"146": {
+					"name": "Yasukuni Sword",
+					"market_value": 16125000,
+					"image": "https://www.torn.com/images/items/146/large.png"
+				},
+				"147": {
+					"name": "Rusty Sword",
+					"market_value": 76254,
+					"image": "https://www.torn.com/images/items/147/large.png"
+				},
+				"148": {
+					"name": "Dance Toy",
+					"market_value": 0,
+					"image": "https://www.torn.com/images/items/148/large.png"
+				},
+				"149": {
+					"name": "Lucky Dime",
+					"market_value": 0,
+					"image": "https://www.torn.com/images/items/149/large.png"
+				},
+				"150": {
+					"name": "Crystal Carousel",
+					"market_value": 0,
+					"image": "https://www.torn.com/images/items/150/large.png"
+				},
+				"151": {
+					"name": "Pixie Sticks",
+					"market_value": 265720,
+					"image": "https://www.torn.com/images/items/151/large.png"
+				},
+				"152": {
+					"name": "Ice Sculpture",
+					"market_value": 0,
+					"image": "https://www.torn.com/images/items/152/large.png"
+				},
+				"153": {
+					"name": "Case of Whiskey",
+					"market_value": 0,
+					"image": "https://www.torn.com/images/items/153/large.png"
+				},
+				"154": {
+					"name": "Laptop",
+					"market_value": 999245,
+					"image": "https://www.torn.com/images/items/154/large.png"
+				},
+				"155": {
+					"name": "Purple Frog Doll",
+					"market_value": 0,
+					"image": "https://www.torn.com/images/items/155/large.png"
+				},
+				"156": {
+					"name": "Skeleton Key",
+					"market_value": 0,
+					"image": "https://www.torn.com/images/items/156/large.png"
+				},
+				"157": {
+					"name": "Patriot Whip",
+					"market_value": 0,
+					"image": "https://www.torn.com/images/items/157/large.png"
+				},
+				"158": {
+					"name": "Statue Of Aeolus",
+					"market_value": 0,
+					"image": "https://www.torn.com/images/items/158/large.png"
+				},
+				"159": {
+					"name": "Bolt Cutters",
+					"market_value": 583,
+					"image": "https://www.torn.com/images/items/159/large.png"
+				},
+				"160": {
+					"name": "Photographs",
+					"market_value": 0,
+					"image": "https://www.torn.com/images/items/160/large.png"
+				},
+				"161": {
+					"name": "Black Unicorn",
+					"market_value": 0,
+					"image": "https://www.torn.com/images/items/161/large.png"
+				},
+				"162": {
+					"name": "WarPaint Kit",
+					"market_value": 0,
+					"image": "https://www.torn.com/images/items/162/large.png"
+				},
+				"163": {
+					"name": "Official Ninja Kit",
+					"market_value": 0,
+					"image": "https://www.torn.com/images/items/163/large.png"
+				},
+				"164": {
+					"name": "Leukaemia TeddyBear",
+					"market_value": 0,
+					"image": "https://www.torn.com/images/items/164/large.png"
+				},
+				"165": {
+					"name": "Chocobo Flute",
+					"market_value": 0,
+					"image": "https://www.torn.com/images/items/165/large.png"
+				},
+				"166": {
+					"name": "Annoying Man",
+					"market_value": 0,
+					"image": "https://www.torn.com/images/items/166/large.png"
+				},
+				"167": {
+					"name": "Article on Crime",
+					"market_value": 0,
+					"image": "https://www.torn.com/images/items/167/large.png"
+				},
+				"168": {
+					"name": "Unknown",
+					"market_value": 0,
+					"image": "https://www.torn.com/images/items/168/large.png"
+				},
+				"169": {
+					"name": "Barbie Doll",
+					"market_value": 0,
+					"image": "https://www.torn.com/images/items/169/large.png"
+				},
+				"170": {
+					"name": "Wand of Destruction",
+					"market_value": 0,
+					"image": "https://www.torn.com/images/items/170/large.png"
+				},
+				"171": {
+					"name": "Jack-O-Lantern '05",
+					"market_value": 0,
+					"image": "https://www.torn.com/images/items/171/large.png"
+				},
+				"172": {
+					"name": "Gas Can",
+					"market_value": 843956,
+					"image": "https://www.torn.com/images/items/172/large.png"
+				},
+				"173": {
+					"name": "Butterfly Knife",
+					"market_value": 1120,
+					"image": "https://www.torn.com/images/items/173/large.png"
+				},
+				"174": {
+					"name": "XM8 Rifle",
+					"market_value": 9915,
+					"image": "https://www.torn.com/images/items/174/large.png"
+				},
+				"175": {
+					"name": "Taser",
+					"market_value": 4205,
+					"image": "https://www.torn.com/images/items/175/large.png"
+				},
+				"176": {
+					"name": "Chain Mail",
+					"market_value": 4233,
+					"image": "https://www.torn.com/images/items/176/large.png"
+				},
+				"177": {
+					"name": "Cobra Derringer",
+					"market_value": 54086,
+					"image": "https://www.torn.com/images/items/177/large.png"
+				},
+				"178": {
+					"name": "Flak Jacket",
+					"market_value": 4566,
+					"image": "https://www.torn.com/images/items/178/large.png"
+				},
+				"179": {
+					"name": "Birthday Cake '05",
+					"market_value": 0,
+					"image": "https://www.torn.com/images/items/179/large.png"
+				},
+				"180": {
+					"name": "Bottle of Beer",
+					"market_value": 1704,
+					"image": "https://www.torn.com/images/items/180/large.png"
+				},
+				"181": {
+					"name": "Bottle of Champagne",
+					"market_value": 3512,
+					"image": "https://www.torn.com/images/items/181/large.png"
+				},
+				"182": {
+					"name": "Soap on a Rope",
+					"market_value": 470,
+					"image": "https://www.torn.com/images/items/182/large.png"
+				},
+				"183": {
+					"name": "Single Red Rose",
+					"market_value": 461,
+					"image": "https://www.torn.com/images/items/183/large.png"
+				},
+				"184": {
+					"name": "Bunch of Black Roses",
+					"market_value": 447,
+					"image": "https://www.torn.com/images/items/184/large.png"
+				},
+				"185": {
+					"name": "Bunch of Balloons '05",
+					"market_value": 0,
+					"image": "https://www.torn.com/images/items/185/large.png"
+				},
+				"186": {
+					"name": "Sheep Plushie",
+					"market_value": 561,
+					"image": "https://www.torn.com/images/items/186/large.png"
+				},
+				"187": {
+					"name": "Teddy Bear Plushie",
+					"market_value": 585,
+					"image": "https://www.torn.com/images/items/187/large.png"
+				},
+				"188": {
+					"name": "Cracked Crystal Ball",
+					"market_value": 0,
+					"image": "https://www.torn.com/images/items/188/large.png"
+				},
+				"189": {
+					"name": "S&W Revolver",
+					"market_value": 913,
+					"image": "https://www.torn.com/images/items/189/large.png"
+				},
+				"190": {
+					"name": "C4 Explosive",
+					"market_value": 0,
+					"image": "https://www.torn.com/images/items/190/large.png"
+				},
+				"191": {
+					"name": "Memory Locket",
+					"market_value": 1000000,
+					"image": "https://www.torn.com/images/items/191/large.png"
+				},
+				"192": {
+					"name": "Rainbow Stud Earring",
+					"market_value": 0,
+					"image": "https://www.torn.com/images/items/192/large.png"
+				},
+				"193": {
+					"name": "Hamster Toy",
+					"market_value": 0,
+					"image": "https://www.torn.com/images/items/193/large.png"
+				},
+				"194": {
+					"name": "Snowflake '05",
+					"market_value": 0,
+					"image": "https://www.torn.com/images/items/194/large.png"
+				},
+				"195": {
+					"name": "Christmas Tree '05",
+					"market_value": 0,
+					"image": "https://www.torn.com/images/items/195/large.png"
+				},
+				"196": {
+					"name": "Cannabis",
+					"market_value": 7108,
+					"image": "https://www.torn.com/images/items/196/large.png"
+				},
+				"197": {
+					"name": "Ecstasy",
+					"market_value": 70456,
+					"image": "https://www.torn.com/images/items/197/large.png"
+				},
+				"198": {
+					"name": "Ketamine",
+					"market_value": 46805,
+					"image": "https://www.torn.com/images/items/198/large.png"
+				},
+				"199": {
+					"name": "LSD",
+					"market_value": 55813,
+					"image": "https://www.torn.com/images/items/199/large.png"
+				},
+				"200": {
+					"name": "Opium",
+					"market_value": 82217,
+					"image": "https://www.torn.com/images/items/200/large.png"
+				},
+				"201": {
+					"name": "PCP",
+					"market_value": 111718,
+					"image": "https://www.torn.com/images/items/201/large.png"
+				},
+				"202": {
+					"name": "Mr Torn Crown '07",
+					"market_value": 0,
+					"image": "https://www.torn.com/images/items/202/large.png"
+				},
+				"203": {
+					"name": "Shrooms",
+					"market_value": 11111,
+					"image": "https://www.torn.com/images/items/203/large.png"
+				},
+				"204": {
+					"name": "Speed",
+					"market_value": 173673,
+					"image": "https://www.torn.com/images/items/204/large.png"
+				},
+				"205": {
+					"name": "Vicodin",
+					"market_value": 2252,
+					"image": "https://www.torn.com/images/items/205/large.png"
+				},
+				"206": {
+					"name": "Xanax",
+					"market_value": 833856,
+					"image": "https://www.torn.com/images/items/206/large.png"
+				},
+				"207": {
+					"name": "Ms Torn Crown '07",
+					"market_value": 0,
+					"image": "https://www.torn.com/images/items/207/large.png"
+				},
+				"208": {
+					"name": "Unknown",
+					"market_value": 0,
+					"image": "https://www.torn.com/images/items/208/large.png"
+				},
+				"209": {
+					"name": "Box of Sweet Hearts",
+					"market_value": 588,
+					"image": "https://www.torn.com/images/items/209/large.png"
+				},
+				"210": {
+					"name": "Bag of Chocolate Kisses",
+					"market_value": 579,
+					"image": "https://www.torn.com/images/items/210/large.png"
+				},
+				"211": {
+					"name": "Crazy Cow",
+					"market_value": 0,
+					"image": "https://www.torn.com/images/items/211/large.png"
+				},
+				"212": {
+					"name": "Legend's Urn",
+					"market_value": 0,
+					"image": "https://www.torn.com/images/items/212/large.png"
+				},
+				"213": {
+					"name": "Dreamcatcher",
+					"market_value": 0,
+					"image": "https://www.torn.com/images/items/213/large.png"
+				},
+				"214": {
+					"name": "Brutus Keychain",
+					"market_value": 0,
+					"image": "https://www.torn.com/images/items/214/large.png"
+				},
+				"215": {
+					"name": "Kitten Plushie",
+					"market_value": 590,
+					"image": "https://www.torn.com/images/items/215/large.png"
+				},
+				"216": {
+					"name": "Single White Rose",
+					"market_value": 0,
+					"image": "https://www.torn.com/images/items/216/large.png"
+				},
+				"217": {
+					"name": "Claymore Sword",
+					"market_value": 61665,
+					"image": "https://www.torn.com/images/items/217/large.png"
+				},
+				"218": {
+					"name": "Crossbow",
+					"market_value": 738,
+					"image": "https://www.torn.com/images/items/218/large.png"
+				},
+				"219": {
+					"name": "Enfield SA-80",
+					"market_value": 217605,
+					"image": "https://www.torn.com/images/items/219/large.png"
+				},
+				"220": {
+					"name": "Grenade",
+					"market_value": 7006,
+					"image": "https://www.torn.com/images/items/220/large.png"
+				},
+				"221": {
+					"name": "Stick Grenade",
+					"market_value": 7444,
+					"image": "https://www.torn.com/images/items/221/large.png"
+				},
+				"222": {
+					"name": "Flash Grenade",
+					"market_value": 52606,
+					"image": "https://www.torn.com/images/items/222/large.png"
+				},
+				"223": {
+					"name": "Jackhammer",
+					"market_value": 4126220,
+					"image": "https://www.torn.com/images/items/223/large.png"
+				},
+				"224": {
+					"name": "Swiss Army Knife",
+					"market_value": 1943,
+					"image": "https://www.torn.com/images/items/224/large.png"
+				},
+				"225": {
+					"name": "Mag 7",
+					"market_value": 46972,
+					"image": "https://www.torn.com/images/items/225/large.png"
+				},
+				"226": {
+					"name": "Smoke Grenade",
+					"market_value": 93985,
+					"image": "https://www.torn.com/images/items/226/large.png"
+				},
+				"227": {
+					"name": "Spear",
+					"market_value": 413,
+					"image": "https://www.torn.com/images/items/227/large.png"
+				},
+				"228": {
+					"name": "Vektor CR-21",
+					"market_value": 6357,
+					"image": "https://www.torn.com/images/items/228/large.png"
+				},
+				"229": {
+					"name": "Claymore Mine",
+					"market_value": 11700,
+					"image": "https://www.torn.com/images/items/229/large.png"
+				},
+				"230": {
+					"name": "Flare Gun",
+					"market_value": 196,
+					"image": "https://www.torn.com/images/items/230/large.png"
+				},
+				"231": {
+					"name": "Heckler & Koch SL8",
+					"market_value": 34882,
+					"image": "https://www.torn.com/images/items/231/large.png"
+				},
+				"232": {
+					"name": "SIG 550",
+					"market_value": 54576,
+					"image": "https://www.torn.com/images/items/232/large.png"
+				},
+				"233": {
+					"name": "BT MP9",
+					"market_value": 40259,
+					"image": "https://www.torn.com/images/items/233/large.png"
+				},
+				"234": {
+					"name": "Chain Whip",
+					"market_value": 2000,
+					"image": "https://www.torn.com/images/items/234/large.png"
+				},
+				"235": {
+					"name": "Wooden Nunchakus",
+					"market_value": 3997,
+					"image": "https://www.torn.com/images/items/235/large.png"
+				},
+				"236": {
+					"name": "Kama",
+					"market_value": 40000,
+					"image": "https://www.torn.com/images/items/236/large.png"
+				},
+				"237": {
+					"name": "Kodachi",
+					"market_value": 97041,
+					"image": "https://www.torn.com/images/items/237/large.png"
+				},
+				"238": {
+					"name": "Sai",
+					"market_value": 679,
+					"image": "https://www.torn.com/images/items/238/large.png"
+				},
+				"239": {
+					"name": "Ninja Stars",
+					"market_value": 1311,
+					"image": "https://www.torn.com/images/items/239/large.png"
+				},
+				"240": {
+					"name": "Anti Tank",
+					"market_value": 16870000,
+					"image": "https://www.torn.com/images/items/240/large.png"
+				},
+				"241": {
+					"name": "Bushmaster Carbon 15 Type 21s",
+					"market_value": 9996,
+					"image": "https://www.torn.com/images/items/241/large.png"
+				},
+				"242": {
+					"name": "HEG",
+					"market_value": 15013,
+					"image": "https://www.torn.com/images/items/242/large.png"
+				},
+				"243": {
+					"name": "Taurus",
+					"market_value": 345,
+					"image": "https://www.torn.com/images/items/243/large.png"
+				},
+				"244": {
+					"name": "Blowgun",
+					"market_value": 1990,
+					"image": "https://www.torn.com/images/items/244/large.png"
+				},
+				"245": {
+					"name": "Bo Staff",
+					"market_value": 300,
+					"image": "https://www.torn.com/images/items/245/large.png"
+				},
+				"246": {
+					"name": "Fireworks",
+					"market_value": 1638,
+					"image": "https://www.torn.com/images/items/246/large.png"
+				},
+				"247": {
+					"name": "Katana",
+					"market_value": 13814,
+					"image": "https://www.torn.com/images/items/247/large.png"
+				},
+				"248": {
+					"name": "Qsz-92",
+					"market_value": 100797,
+					"image": "https://www.torn.com/images/items/248/large.png"
+				},
+				"249": {
+					"name": "SKS Carbine",
+					"market_value": 4980,
+					"image": "https://www.torn.com/images/items/249/large.png"
+				},
+				"250": {
+					"name": "Twin Tiger Hooks",
+					"market_value": 0,
+					"image": "https://www.torn.com/images/items/250/large.png"
+				},
+				"251": {
+					"name": "Wushu Double Axes",
+					"market_value": 121496,
+					"image": "https://www.torn.com/images/items/251/large.png"
+				},
+				"252": {
+					"name": "Ithaca 37",
+					"market_value": 7031,
+					"image": "https://www.torn.com/images/items/252/large.png"
+				},
+				"253": {
+					"name": "Lorcin 380",
+					"market_value": 186,
+					"image": "https://www.torn.com/images/items/253/large.png"
+				},
+				"254": {
+					"name": "S&W M29",
+					"market_value": 22569,
+					"image": "https://www.torn.com/images/items/254/large.png"
+				},
+				"255": {
+					"name": "Flamethrower",
+					"market_value": 2511497,
+					"image": "https://www.torn.com/images/items/255/large.png"
+				},
+				"256": {
+					"name": "Tear Gas",
+					"market_value": 60041,
+					"image": "https://www.torn.com/images/items/256/large.png"
+				},
+				"257": {
+					"name": "Throwing Knife",
+					"market_value": 29067,
+					"image": "https://www.torn.com/images/items/257/large.png"
+				},
+				"258": {
+					"name": "Jaguar Plushie",
+					"market_value": 17031,
+					"image": "https://www.torn.com/images/items/258/large.png"
+				},
+				"259": {
+					"name": "Mayan Statue",
+					"market_value": 1527,
+					"image": "https://www.torn.com/images/items/259/large.png"
+				},
+				"260": {
+					"name": "Dahlia",
+					"market_value": 2246,
+					"image": "https://www.torn.com/images/items/260/large.png"
+				},
+				"261": {
+					"name": "Wolverine Plushie",
+					"market_value": 10036,
+					"image": "https://www.torn.com/images/items/261/large.png"
+				},
+				"262": {
+					"name": "Hockey Stick",
+					"market_value": 3708,
+					"image": "https://www.torn.com/images/items/262/large.png"
+				},
+				"263": {
+					"name": "Crocus",
+					"market_value": 9129,
+					"image": "https://www.torn.com/images/items/263/large.png"
+				},
+				"264": {
+					"name": "Orchid",
+					"market_value": 20025,
+					"image": "https://www.torn.com/images/items/264/large.png"
+				},
+				"265": {
+					"name": "Pele Charm",
+					"market_value": 1761,
+					"image": "https://www.torn.com/images/items/265/large.png"
+				},
+				"266": {
+					"name": "Nessie Plushie",
+					"market_value": 40370,
+					"image": "https://www.torn.com/images/items/266/large.png"
+				},
+				"267": {
+					"name": "Heather",
+					"market_value": 44542,
+					"image": "https://www.torn.com/images/items/267/large.png"
+				},
+				"268": {
+					"name": "Red Fox Plushie",
+					"market_value": 41632,
+					"image": "https://www.torn.com/images/items/268/large.png"
+				},
+				"269": {
+					"name": "Monkey Plushie",
+					"market_value": 45846,
+					"image": "https://www.torn.com/images/items/269/large.png"
+				},
+				"270": {
+					"name": "Soccer Ball",
+					"market_value": 1335,
+					"image": "https://www.torn.com/images/items/270/large.png"
+				},
+				"271": {
+					"name": "Ceibo Flower",
+					"market_value": 42108,
+					"image": "https://www.torn.com/images/items/271/large.png"
+				},
+				"272": {
+					"name": "Edelweiss",
+					"market_value": 35994,
+					"image": "https://www.torn.com/images/items/272/large.png"
+				},
+				"273": {
+					"name": "Chamois Plushie",
+					"market_value": 43204,
+					"image": "https://www.torn.com/images/items/273/large.png"
+				},
+				"274": {
+					"name": "Panda Plushie",
+					"market_value": 71005,
+					"image": "https://www.torn.com/images/items/274/large.png"
+				},
+				"275": {
+					"name": "Jade Buddha",
+					"market_value": 13423,
+					"image": "https://www.torn.com/images/items/275/large.png"
+				},
+				"276": {
+					"name": "Peony",
+					"market_value": 72127,
+					"image": "https://www.torn.com/images/items/276/large.png"
+				},
+				"277": {
+					"name": "Cherry Blossom",
+					"market_value": 62953,
+					"image": "https://www.torn.com/images/items/277/large.png"
+				},
+				"278": {
+					"name": "Kabuki Mask",
+					"market_value": 7272,
+					"image": "https://www.torn.com/images/items/278/large.png"
+				},
+				"279": {
+					"name": "Maneki Neko",
+					"market_value": 34945,
+					"image": "https://www.torn.com/images/items/279/large.png"
+				},
+				"280": {
+					"name": "Elephant Statue",
+					"market_value": 3301,
+					"image": "https://www.torn.com/images/items/280/large.png"
+				},
+				"281": {
+					"name": "Lion Plushie",
+					"market_value": 70851,
+					"image": "https://www.torn.com/images/items/281/large.png"
+				},
+				"282": {
+					"name": "African Violet",
+					"market_value": 65160,
+					"image": "https://www.torn.com/images/items/282/large.png"
+				},
+				"283": {
+					"name": "Donator Pack",
+					"market_value": 23299748,
+					"image": "https://www.torn.com/images/items/283/large.png"
+				},
+				"284": {
+					"name": "Bronze Paint Brush",
+					"market_value": 0,
+					"image": "https://www.torn.com/images/items/284/large.png"
+				},
+				"285": {
+					"name": "Silver Paint Brush",
+					"market_value": 0,
+					"image": "https://www.torn.com/images/items/285/large.png"
+				},
+				"286": {
+					"name": "Gold Paint Brush",
+					"market_value": 0,
+					"image": "https://www.torn.com/images/items/286/large.png"
+				},
+				"287": {
+					"name": "Pand0ra's Box",
+					"market_value": 0,
+					"image": "https://www.torn.com/images/items/287/large.png"
+				},
+				"288": {
+					"name": "Mr Brownstone Doll",
+					"market_value": 0,
+					"image": "https://www.torn.com/images/items/288/large.png"
+				},
+				"289": {
+					"name": "Dual Axes",
+					"market_value": 0,
+					"image": "https://www.torn.com/images/items/289/large.png"
+				},
+				"290": {
+					"name": "Dual Hammers",
+					"market_value": 0,
+					"image": "https://www.torn.com/images/items/290/large.png"
+				},
+				"291": {
+					"name": "Dual Scimitars",
+					"market_value": 0,
+					"image": "https://www.torn.com/images/items/291/large.png"
+				},
+				"292": {
+					"name": "Dual Samurai Swords",
+					"market_value": 1900000000,
+					"image": "https://www.torn.com/images/items/292/large.png"
+				},
+				"293": {
+					"name": "Japanese/English Dictionary",
+					"market_value": 0,
+					"image": "https://www.torn.com/images/items/293/large.png"
+				},
+				"294": {
+					"name": "Bottle of Saké",
+					"market_value": 3117,
+					"image": "https://www.torn.com/images/items/294/large.png"
+				},
+				"295": {
+					"name": "Oriental Log",
+					"market_value": 0,
+					"image": "https://www.torn.com/images/items/295/large.png"
+				},
+				"296": {
+					"name": "Oriental Log Translation",
+					"market_value": 0,
+					"image": "https://www.torn.com/images/items/296/large.png"
+				},
+				"297": {
+					"name": "YouYou Yo Yo",
+					"market_value": 0,
+					"image": "https://www.torn.com/images/items/297/large.png"
+				},
+				"298": {
+					"name": "Monkey Cuffs",
+					"market_value": 0,
+					"image": "https://www.torn.com/images/items/298/large.png"
+				},
+				"299": {
+					"name": "Jester's Cap",
+					"market_value": 0,
+					"image": "https://www.torn.com/images/items/299/large.png"
+				},
+				"300": {
+					"name": "Gibal's Dragonfly",
+					"market_value": 0,
+					"image": "https://www.torn.com/images/items/300/large.png"
+				},
+				"301": {
+					"name": "Green Ornament",
+					"market_value": 0,
+					"image": "https://www.torn.com/images/items/301/large.png"
+				},
+				"302": {
+					"name": "Purple Ornament",
+					"market_value": 0,
+					"image": "https://www.torn.com/images/items/302/large.png"
+				},
+				"303": {
+					"name": "Blue Ornament",
+					"market_value": 0,
+					"image": "https://www.torn.com/images/items/303/large.png"
+				},
+				"304": {
+					"name": "Purple Bell",
+					"market_value": 0,
+					"image": "https://www.torn.com/images/items/304/large.png"
+				},
+				"305": {
+					"name": "Mistletoe",
+					"market_value": 130999,
+					"image": "https://www.torn.com/images/items/305/large.png"
+				},
+				"306": {
+					"name": "Mini Sleigh",
+					"market_value": 205947,
+					"image": "https://www.torn.com/images/items/306/large.png"
+				},
+				"307": {
+					"name": "Snowman",
+					"market_value": 400000,
+					"image": "https://www.torn.com/images/items/307/large.png"
+				},
+				"308": {
+					"name": "Christmas Gnome",
+					"market_value": 430206,
+					"image": "https://www.torn.com/images/items/308/large.png"
+				},
+				"309": {
+					"name": "Gingerbread House",
+					"market_value": 149688,
+					"image": "https://www.torn.com/images/items/309/large.png"
+				},
+				"310": {
+					"name": "Lollipop",
+					"market_value": 528,
+					"image": "https://www.torn.com/images/items/310/large.png"
+				},
+				"311": {
+					"name": "Mardi Gras Beads",
+					"market_value": 0,
+					"image": "https://www.torn.com/images/items/311/large.png"
+				},
+				"312": {
+					"name": "Devil Toy",
+					"market_value": 0,
+					"image": "https://www.torn.com/images/items/312/large.png"
+				},
+				"313": {
+					"name": "Cookie Launcher",
+					"market_value": 0,
+					"image": "https://www.torn.com/images/items/313/large.png"
+				},
+				"314": {
+					"name": "Cursed Moon Pendant",
+					"market_value": 0,
+					"image": "https://www.torn.com/images/items/314/large.png"
+				},
+				"315": {
+					"name": "Apartment Blueprint",
+					"market_value": 0,
+					"image": "https://www.torn.com/images/items/315/large.png"
+				},
+				"316": {
+					"name": "Semi-Detached House Blueprint",
+					"market_value": 0,
+					"image": "https://www.torn.com/images/items/316/large.png"
+				},
+				"317": {
+					"name": "Detached House Blueprint",
+					"market_value": 0,
+					"image": "https://www.torn.com/images/items/317/large.png"
+				},
+				"318": {
+					"name": "Beach House Blueprint",
+					"market_value": 0,
+					"image": "https://www.torn.com/images/items/318/large.png"
+				},
+				"319": {
+					"name": "Chalet Blueprint",
+					"market_value": 0,
+					"image": "https://www.torn.com/images/items/319/large.png"
+				},
+				"320": {
+					"name": "Villa Blueprint",
+					"market_value": 0,
+					"image": "https://www.torn.com/images/items/320/large.png"
+				},
+				"321": {
+					"name": "Penthouse Blueprint",
+					"market_value": 0,
+					"image": "https://www.torn.com/images/items/321/large.png"
+				},
+				"322": {
+					"name": "Mansion Blueprint",
+					"market_value": 0,
+					"image": "https://www.torn.com/images/items/322/large.png"
+				},
+				"323": {
+					"name": "Ranch Blueprint",
+					"market_value": 0,
+					"image": "https://www.torn.com/images/items/323/large.png"
+				},
+				"324": {
+					"name": "Palace Blueprint",
+					"market_value": 0,
+					"image": "https://www.torn.com/images/items/324/large.png"
+				},
+				"325": {
+					"name": "Castle Blueprint",
+					"market_value": 0,
+					"image": "https://www.torn.com/images/items/325/large.png"
+				},
+				"326": {
+					"name": "Printing Paper",
+					"market_value": 64000,
+					"image": "https://www.torn.com/images/items/326/large.png"
+				},
+				"327": {
+					"name": "Blank Tokens",
+					"market_value": 19167,
+					"image": "https://www.torn.com/images/items/327/large.png"
+				},
+				"328": {
+					"name": "Blank Credit Cards",
+					"market_value": 53163,
+					"image": "https://www.torn.com/images/items/328/large.png"
+				},
+				"329": {
+					"name": "Skateboard",
+					"market_value": 407300000,
+					"image": "https://www.torn.com/images/items/329/large.png"
+				},
+				"330": {
+					"name": "Boxing Gloves",
+					"market_value": 448000000,
+					"image": "https://www.torn.com/images/items/330/large.png"
+				},
+				"331": {
+					"name": "Dumbbells",
+					"market_value": 443309999,
+					"image": "https://www.torn.com/images/items/331/large.png"
+				},
+				"332": {
+					"name": "Combat Vest",
+					"market_value": 3368184,
+					"image": "https://www.torn.com/images/items/332/large.png"
+				},
+				"333": {
+					"name": "Liquid Body Armor",
+					"market_value": 6650000,
+					"image": "https://www.torn.com/images/items/333/large.png"
+				},
+				"334": {
+					"name": "Flexible Body Armor",
+					"market_value": 11325000,
+					"image": "https://www.torn.com/images/items/334/large.png"
+				},
+				"335": {
+					"name": "Stick of Dynamite",
+					"market_value": 55000,
+					"image": "https://www.torn.com/images/items/335/large.png"
+				},
+				"336": {
+					"name": "Cesium-137",
+					"market_value": 375000000,
+					"image": "https://www.torn.com/images/items/336/large.png"
+				},
+				"337": {
+					"name": "Dirty Bomb",
+					"market_value": 0,
+					"image": "https://www.torn.com/images/items/337/large.png"
+				},
+				"338": {
+					"name": "Sh0rty's Surfboard",
+					"market_value": 0,
+					"image": "https://www.torn.com/images/items/338/large.png"
+				},
+				"339": {
+					"name": "Puzzle piece",
+					"market_value": 0,
+					"image": "https://www.torn.com/images/items/339/large.png"
+				},
+				"340": {
+					"name": "Hunny Pot",
+					"market_value": 0,
+					"image": "https://www.torn.com/images/items/340/large.png"
+				},
+				"341": {
+					"name": "Seductive Stethoscope",
+					"market_value": 0,
+					"image": "https://www.torn.com/images/items/341/large.png"
+				},
+				"342": {
+					"name": "Dollar Bill Collectible",
+					"market_value": 0,
+					"image": "https://www.torn.com/images/items/342/large.png"
+				},
+				"343": {
+					"name": "Backstage Pass",
+					"market_value": 0,
+					"image": "https://www.torn.com/images/items/343/large.png"
+				},
+				"344": {
+					"name": "Chemi's Magic Potion",
+					"market_value": 2000000001,
+					"image": "https://www.torn.com/images/items/344/large.png"
+				},
+				"345": {
+					"name": "Pack of Trojans",
+					"market_value": 25400000,
+					"image": "https://www.torn.com/images/items/345/large.png"
+				},
+				"346": {
+					"name": "Pair of High Heels",
+					"market_value": 13000000,
+					"image": "https://www.torn.com/images/items/346/large.png"
+				},
+				"347": {
+					"name": "Thong",
+					"market_value": 5000002,
+					"image": "https://www.torn.com/images/items/347/large.png"
+				},
+				"348": {
+					"name": "Hazmat Suit",
+					"market_value": 0,
+					"image": "https://www.torn.com/images/items/348/large.png"
+				},
+				"349": {
+					"name": "Flea Collar",
+					"market_value": 0,
+					"image": "https://www.torn.com/images/items/349/large.png"
+				},
+				"350": {
+					"name": "Dunkin's Donut",
+					"market_value": 0,
+					"image": "https://www.torn.com/images/items/350/large.png"
+				},
+				"351": {
+					"name": "Amazon Doll",
+					"market_value": 0,
+					"image": "https://www.torn.com/images/items/351/large.png"
+				},
+				"352": {
+					"name": "BBQ Smoker",
+					"market_value": 0,
+					"image": "https://www.torn.com/images/items/352/large.png"
+				},
+				"353": {
+					"name": "Bag of Cheetos",
+					"market_value": 0,
+					"image": "https://www.torn.com/images/items/353/large.png"
+				},
+				"354": {
+					"name": "Motorbike",
+					"market_value": 0,
+					"image": "https://www.torn.com/images/items/354/large.png"
+				},
+				"355": {
+					"name": "Citrus Squeezer",
+					"market_value": 0,
+					"image": "https://www.torn.com/images/items/355/large.png"
+				},
+				"356": {
+					"name": "Superman Shades",
+					"market_value": 0,
+					"image": "https://www.torn.com/images/items/356/large.png"
+				},
+				"357": {
+					"name": "Kevlar Helmet",
+					"market_value": 0,
+					"image": "https://www.torn.com/images/items/357/large.png"
+				},
+				"358": {
+					"name": "Raw Ivory",
+					"market_value": 881667,
+					"image": "https://www.torn.com/images/items/358/large.png"
+				},
+				"359": {
+					"name": "Fine Chisel",
+					"market_value": 1400000,
+					"image": "https://www.torn.com/images/items/359/large.png"
+				},
+				"360": {
+					"name": "Ivory Walking Cane",
+					"market_value": 0,
+					"image": "https://www.torn.com/images/items/360/large.png"
+				},
+				"361": {
+					"name": "Neumune Tablet",
+					"market_value": 2573038,
+					"image": "https://www.torn.com/images/items/361/large.png"
+				},
+				"362": {
+					"name": "Mr Torn Crown '08",
+					"market_value": 0,
+					"image": "https://www.torn.com/images/items/362/large.png"
+				},
+				"363": {
+					"name": "Ms Torn Crown '08",
+					"market_value": 0,
+					"image": "https://www.torn.com/images/items/363/large.png"
+				},
+				"364": {
+					"name": "Box of Grenades",
+					"market_value": 1090281,
+					"image": "https://www.torn.com/images/items/364/large.png"
+				},
+				"365": {
+					"name": "Box of Medical Supplies",
+					"market_value": 399041,
+					"image": "https://www.torn.com/images/items/365/large.png"
+				},
+				"366": {
+					"name": "Erotic DVD",
+					"market_value": 2876010,
+					"image": "https://www.torn.com/images/items/366/large.png"
+				},
+				"367": {
+					"name": "Feathery Hotel Coupon",
+					"market_value": 12999630,
+					"image": "https://www.torn.com/images/items/367/large.png"
+				},
+				"368": {
+					"name": "Lawyer Business Card",
+					"market_value": 616778,
+					"image": "https://www.torn.com/images/items/368/large.png"
+				},
+				"369": {
+					"name": "Lottery Voucher",
+					"market_value": 869644,
+					"image": "https://www.torn.com/images/items/369/large.png"
+				},
+				"370": {
+					"name": "Drug Pack",
+					"market_value": 4261679,
+					"image": "https://www.torn.com/images/items/370/large.png"
+				},
+				"371": {
+					"name": "Dark Doll",
+					"market_value": 0,
+					"image": "https://www.torn.com/images/items/371/large.png"
+				},
+				"372": {
+					"name": "Empty Box",
+					"market_value": 328,
+					"image": "https://www.torn.com/images/items/372/large.png"
+				},
+				"373": {
+					"name": "Parcel",
+					"market_value": 0,
+					"image": "https://www.torn.com/images/items/373/large.png"
+				},
+				"374": {
+					"name": "Birthday Present",
+					"market_value": 0,
+					"image": "https://www.torn.com/images/items/374/large.png"
+				},
+				"375": {
+					"name": "Present",
+					"market_value": 0,
+					"image": "https://www.torn.com/images/items/375/large.png"
+				},
+				"376": {
+					"name": "Christmas Present",
+					"market_value": 0,
+					"image": "https://www.torn.com/images/items/376/large.png"
+				},
+				"377": {
+					"name": "Birthday Wrapping Paper",
+					"market_value": 501,
+					"image": "https://www.torn.com/images/items/377/large.png"
+				},
+				"378": {
+					"name": "Generic Wrapping Paper",
+					"market_value": 502,
+					"image": "https://www.torn.com/images/items/378/large.png"
+				},
+				"379": {
+					"name": "Christmas Wrapping Paper",
+					"market_value": 508,
+					"image": "https://www.torn.com/images/items/379/large.png"
+				},
+				"380": {
+					"name": "Small Explosive Device",
+					"market_value": 2220405,
+					"image": "https://www.torn.com/images/items/380/large.png"
+				},
+				"381": {
+					"name": "Gold Laptop",
+					"market_value": 0,
+					"image": "https://www.torn.com/images/items/381/large.png"
+				},
+				"382": {
+					"name": "Gold Plated AK-47",
+					"market_value": 0,
+					"image": "https://www.torn.com/images/items/382/large.png"
+				},
+				"383": {
+					"name": "Platinum PDA",
+					"market_value": 0,
+					"image": "https://www.torn.com/images/items/383/large.png"
+				},
+				"384": {
+					"name": "Camel Plushie",
+					"market_value": 92904,
+					"image": "https://www.torn.com/images/items/384/large.png"
+				},
+				"385": {
+					"name": "Tribulus Omanense",
+					"market_value": 75823,
+					"image": "https://www.torn.com/images/items/385/large.png"
+				},
+				"386": {
+					"name": "Sports Sneakers",
+					"market_value": 0,
+					"image": "https://www.torn.com/images/items/386/large.png"
+				},
+				"387": {
+					"name": "Handbag",
+					"market_value": 0,
+					"image": "https://www.torn.com/images/items/387/large.png"
+				},
+				"388": {
+					"name": "Pink Mac-10",
+					"market_value": 0,
+					"image": "https://www.torn.com/images/items/388/large.png"
+				},
+				"389": {
+					"name": "Mr Torn Crown '09",
+					"market_value": 0,
+					"image": "https://www.torn.com/images/items/389/large.png"
+				},
+				"390": {
+					"name": "Ms Torn Crown '09",
+					"market_value": 0,
+					"image": "https://www.torn.com/images/items/390/large.png"
+				},
+				"391": {
+					"name": "Macana",
+					"market_value": 80017,
+					"image": "https://www.torn.com/images/items/391/large.png"
+				},
+				"392": {
+					"name": "Pepper Spray",
+					"market_value": 1519,
+					"image": "https://www.torn.com/images/items/392/large.png"
+				},
+				"393": {
+					"name": "Slingshot",
+					"market_value": 14500,
+					"image": "https://www.torn.com/images/items/393/large.png"
+				},
+				"394": {
+					"name": "Brick",
+					"market_value": 371,
+					"image": "https://www.torn.com/images/items/394/large.png"
+				},
+				"395": {
+					"name": "Metal Nunchakus",
+					"market_value": 309726,
+					"image": "https://www.torn.com/images/items/395/large.png"
+				},
+				"396": {
+					"name": "Business Class Ticket",
+					"market_value": 4998781,
+					"image": "https://www.torn.com/images/items/396/large.png"
+				},
+				"397": {
+					"name": "Flail",
+					"market_value": 7965000,
+					"image": "https://www.torn.com/images/items/397/large.png"
+				},
+				"398": {
+					"name": "SIG 552",
+					"market_value": 6503333,
+					"image": "https://www.torn.com/images/items/398/large.png"
+				},
+				"399": {
+					"name": "ArmaLite M-15A4 Rifle",
+					"market_value": 16865799,
+					"image": "https://www.torn.com/images/items/399/large.png"
+				},
+				"400": {
+					"name": "Guandao",
+					"market_value": 158000,
+					"image": "https://www.torn.com/images/items/400/large.png"
+				},
+				"401": {
+					"name": "Lead Pipe",
+					"market_value": 98,
+					"image": "https://www.torn.com/images/items/401/large.png"
+				},
+				"402": {
+					"name": "Ice Pick",
+					"market_value": 15550,
+					"image": "https://www.torn.com/images/items/402/large.png"
+				},
+				"403": {
+					"name": "Box of Tissues",
+					"market_value": 242,
+					"image": "https://www.torn.com/images/items/403/large.png"
+				},
+				"404": {
+					"name": "Bandana",
+					"market_value": 608,
+					"image": "https://www.torn.com/images/items/404/large.png"
+				},
+				"405": {
+					"name": "Loaf of Bread",
+					"market_value": 3250000,
+					"image": "https://www.torn.com/images/items/405/large.png"
+				},
+				"406": {
+					"name": "Afro Comb",
+					"market_value": 29648,
+					"image": "https://www.torn.com/images/items/406/large.png"
+				},
+				"407": {
+					"name": "Compass",
+					"market_value": 9698,
+					"image": "https://www.torn.com/images/items/407/large.png"
+				},
+				"408": {
+					"name": "Sextant",
+					"market_value": 25944,
+					"image": "https://www.torn.com/images/items/408/large.png"
+				},
+				"409": {
+					"name": "Yucca Plant",
+					"market_value": 7268,
+					"image": "https://www.torn.com/images/items/409/large.png"
+				},
+				"410": {
+					"name": "Fire Hydrant",
+					"market_value": 14225,
+					"image": "https://www.torn.com/images/items/410/large.png"
+				},
+				"411": {
+					"name": "Model Space Ship",
+					"market_value": 16498,
+					"image": "https://www.torn.com/images/items/411/large.png"
+				},
+				"412": {
+					"name": "Sports Shades",
+					"market_value": 3679,
+					"image": "https://www.torn.com/images/items/412/large.png"
+				},
+				"413": {
+					"name": "Mountie Hat",
+					"market_value": 23750,
+					"image": "https://www.torn.com/images/items/413/large.png"
+				},
+				"414": {
+					"name": "Proda Sunglasses",
+					"market_value": 12971,
+					"image": "https://www.torn.com/images/items/414/large.png"
+				},
+				"415": {
+					"name": "Ship in a Bottle",
+					"market_value": 33333,
+					"image": "https://www.torn.com/images/items/415/large.png"
+				},
+				"416": {
+					"name": "Paper Weight",
+					"market_value": 1993,
+					"image": "https://www.torn.com/images/items/416/large.png"
+				},
+				"417": {
+					"name": "RS232 Cable",
+					"market_value": 195,
+					"image": "https://www.torn.com/images/items/417/large.png"
+				},
+				"418": {
+					"name": "Tailors Dummy",
+					"market_value": 22000,
+					"image": "https://www.torn.com/images/items/418/large.png"
+				},
+				"419": {
+					"name": "Small Suitcase",
+					"market_value": 1850780,
+					"image": "https://www.torn.com/images/items/419/large.png"
+				},
+				"420": {
+					"name": "Medium Suitcase",
+					"market_value": 3824562,
+					"image": "https://www.torn.com/images/items/420/large.png"
+				},
+				"421": {
+					"name": "Large Suitcase",
+					"market_value": 10012000,
+					"image": "https://www.torn.com/images/items/421/large.png"
+				},
+				"422": {
+					"name": "Vanity Hand Mirror",
+					"market_value": 697500,
+					"image": "https://www.torn.com/images/items/422/large.png"
+				},
+				"423": {
+					"name": "Poker Chip",
+					"market_value": 0,
+					"image": "https://www.torn.com/images/items/423/large.png"
+				},
+				"424": {
+					"name": "Rabbit Foot",
+					"market_value": 0,
+					"image": "https://www.torn.com/images/items/424/large.png"
+				},
+				"425": {
+					"name": "Voodoo Doll",
+					"market_value": 0,
+					"image": "https://www.torn.com/images/items/425/large.png"
+				},
+				"426": {
+					"name": "Bottle of Tequila",
+					"market_value": 1738,
+					"image": "https://www.torn.com/images/items/426/large.png"
+				},
+				"427": {
+					"name": "Sumo Doll",
+					"market_value": 1307,
+					"image": "https://www.torn.com/images/items/427/large.png"
+				},
+				"428": {
+					"name": "Casino Pass",
+					"market_value": 129966667,
+					"image": "https://www.torn.com/images/items/428/large.png"
+				},
+				"429": {
+					"name": "Chopsticks",
+					"market_value": 1062,
+					"image": "https://www.torn.com/images/items/429/large.png"
+				},
+				"430": {
+					"name": "Coconut Bra",
+					"market_value": 600000,
+					"image": "https://www.torn.com/images/items/430/large.png"
+				},
+				"431": {
+					"name": "Dart Board",
+					"market_value": 1035,
+					"image": "https://www.torn.com/images/items/431/large.png"
+				},
+				"432": {
+					"name": "Crazy Straw",
+					"market_value": 677,
+					"image": "https://www.torn.com/images/items/432/large.png"
+				},
+				"433": {
+					"name": "Sensu",
+					"market_value": 9629,
+					"image": "https://www.torn.com/images/items/433/large.png"
+				},
+				"434": {
+					"name": "Yakitori Lantern",
+					"market_value": 11750,
+					"image": "https://www.torn.com/images/items/434/large.png"
+				},
+				"435": {
+					"name": "Dozen White Roses",
+					"market_value": 0,
+					"image": "https://www.torn.com/images/items/435/large.png"
+				},
+				"436": {
+					"name": "Snowboard",
+					"market_value": 4079,
+					"image": "https://www.torn.com/images/items/436/large.png"
+				},
+				"437": {
+					"name": "Glow Stick",
+					"market_value": 54254,
+					"image": "https://www.torn.com/images/items/437/large.png"
+				},
+				"438": {
+					"name": "Cricket Bat",
+					"market_value": 25452,
+					"image": "https://www.torn.com/images/items/438/large.png"
+				},
+				"439": {
+					"name": "Frying Pan",
+					"market_value": 602,
+					"image": "https://www.torn.com/images/items/439/large.png"
+				},
+				"440": {
+					"name": "Pillow",
+					"market_value": 878241,
+					"image": "https://www.torn.com/images/items/440/large.png"
+				},
+				"441": {
+					"name": "Khinkeh P0rnStar Doll",
+					"market_value": 0,
+					"image": "https://www.torn.com/images/items/441/large.png"
+				},
+				"442": {
+					"name": "Blow-Up Doll",
+					"market_value": 0,
+					"image": "https://www.torn.com/images/items/442/large.png"
+				},
+				"443": {
+					"name": "Strawberry Milkshake",
+					"market_value": 0,
+					"image": "https://www.torn.com/images/items/443/large.png"
+				},
+				"444": {
+					"name": "Breadfan Doll",
+					"market_value": 0,
+					"image": "https://www.torn.com/images/items/444/large.png"
+				},
+				"445": {
+					"name": "Chaos Man",
+					"market_value": 0,
+					"image": "https://www.torn.com/images/items/445/large.png"
+				},
+				"446": {
+					"name": "Karate Man",
+					"market_value": 0,
+					"image": "https://www.torn.com/images/items/446/large.png"
+				},
+				"447": {
+					"name": "Burmese Flag",
+					"market_value": 0,
+					"image": "https://www.torn.com/images/items/447/large.png"
+				},
+				"448": {
+					"name": "Bl0ndie's Dictionary",
+					"market_value": 0,
+					"image": "https://www.torn.com/images/items/448/large.png"
+				},
+				"449": {
+					"name": "Hydroponic Grow Tent",
+					"market_value": 0,
+					"image": "https://www.torn.com/images/items/449/large.png"
+				},
+				"450": {
+					"name": "Leopard Coin",
+					"market_value": 1630667,
+					"image": "https://www.torn.com/images/items/450/large.png"
+				},
+				"451": {
+					"name": "Florin Coin",
+					"market_value": 1577750,
+					"image": "https://www.torn.com/images/items/451/large.png"
+				},
+				"452": {
+					"name": "Gold Noble Coin",
+					"market_value": 1641667,
+					"image": "https://www.torn.com/images/items/452/large.png"
+				},
+				"453": {
+					"name": "Ganesha Sculpture",
+					"market_value": 11000001,
+					"image": "https://www.torn.com/images/items/453/large.png"
+				},
+				"454": {
+					"name": "Vairocana Buddha Sculpture",
+					"market_value": 0,
+					"image": "https://www.torn.com/images/items/454/large.png"
+				},
+				"455": {
+					"name": "Quran Script : Ibn Masud",
+					"market_value": 15000000,
+					"image": "https://www.torn.com/images/items/455/large.png"
+				},
+				"456": {
+					"name": "Quran Script : Ubay Ibn Kab",
+					"market_value": 14750000,
+					"image": "https://www.torn.com/images/items/456/large.png"
+				},
+				"457": {
+					"name": "Quran Script : Ali",
+					"market_value": 15000000,
+					"image": "https://www.torn.com/images/items/457/large.png"
+				},
+				"458": {
+					"name": "Shabti Sculpture",
+					"market_value": 23500000,
+					"image": "https://www.torn.com/images/items/458/large.png"
+				},
+				"459": {
+					"name": "Egyptian Amulet",
+					"market_value": 0,
+					"image": "https://www.torn.com/images/items/459/large.png"
+				},
+				"460": {
+					"name": "White Senet Pawn",
+					"market_value": 9250000,
+					"image": "https://www.torn.com/images/items/460/large.png"
+				},
+				"461": {
+					"name": "Black Senet Pawn",
+					"market_value": 8500000,
+					"image": "https://www.torn.com/images/items/461/large.png"
+				},
+				"462": {
+					"name": "Senet Board",
+					"market_value": 1063333,
+					"image": "https://www.torn.com/images/items/462/large.png"
+				},
+				"463": {
+					"name": "Epinephrine",
+					"market_value": 910713,
+					"image": "https://www.torn.com/images/items/463/large.png"
+				},
+				"464": {
+					"name": "Melatonin",
+					"market_value": 310665,
+					"image": "https://www.torn.com/images/items/464/large.png"
+				},
+				"465": {
+					"name": "Serotonin",
+					"market_value": 1310806,
+					"image": "https://www.torn.com/images/items/465/large.png"
+				},
+				"466": {
+					"name": "Snow Globe '09",
+					"market_value": 8000000,
+					"image": "https://www.torn.com/images/items/466/large.png"
+				},
+				"467": {
+					"name": "Dancing Santa Claus '09",
+					"market_value": 3500000,
+					"image": "https://www.torn.com/images/items/467/large.png"
+				},
+				"468": {
+					"name": "Christmas Stocking '09",
+					"market_value": 0,
+					"image": "https://www.torn.com/images/items/468/large.png"
+				},
+				"469": {
+					"name": "Santa's Elf '09",
+					"market_value": 0,
+					"image": "https://www.torn.com/images/items/469/large.png"
+				},
+				"470": {
+					"name": "Christmas Card '09",
+					"market_value": 0,
+					"image": "https://www.torn.com/images/items/470/large.png"
+				},
+				"471": {
+					"name": "Admin Portrait '09",
+					"market_value": 0,
+					"image": "https://www.torn.com/images/items/471/large.png"
+				},
+				"472": {
+					"name": "Blue Easter Egg",
+					"market_value": 165498,
+					"image": "https://www.torn.com/images/items/472/large.png"
+				},
+				"473": {
+					"name": "Green Easter Egg",
+					"market_value": 166248,
+					"image": "https://www.torn.com/images/items/473/large.png"
+				},
+				"474": {
+					"name": "Red Easter Egg",
+					"market_value": 162665,
+					"image": "https://www.torn.com/images/items/474/large.png"
+				},
+				"475": {
+					"name": "Yellow Easter Egg",
+					"market_value": 161740,
+					"image": "https://www.torn.com/images/items/475/large.png"
+				},
+				"476": {
+					"name": "White Easter Egg",
+					"market_value": 1882496,
+					"image": "https://www.torn.com/images/items/476/large.png"
+				},
+				"477": {
+					"name": "Black Easter Egg",
+					"market_value": 204750,
+					"image": "https://www.torn.com/images/items/477/large.png"
+				},
+				"478": {
+					"name": "Gold Easter Egg",
+					"market_value": 1704000,
+					"image": "https://www.torn.com/images/items/478/large.png"
+				},
+				"479": {
+					"name": "Metal Dog Tag",
+					"market_value": 0,
+					"image": "https://www.torn.com/images/items/479/large.png"
+				},
+				"480": {
+					"name": "Bronze Dog Tag",
+					"market_value": 0,
+					"image": "https://www.torn.com/images/items/480/large.png"
+				},
+				"481": {
+					"name": "Silver Dog Tag",
+					"market_value": 0,
+					"image": "https://www.torn.com/images/items/481/large.png"
+				},
+				"482": {
+					"name": "Gold Dog Tag",
+					"market_value": 0,
+					"image": "https://www.torn.com/images/items/482/large.png"
+				},
+				"483": {
+					"name": "MP5k",
+					"market_value": 5750,
+					"image": "https://www.torn.com/images/items/483/large.png"
+				},
+				"484": {
+					"name": "AK74U",
+					"market_value": 38857,
+					"image": "https://www.torn.com/images/items/484/large.png"
+				},
+				"485": {
+					"name": "Skorpion",
+					"market_value": 3728,
+					"image": "https://www.torn.com/images/items/485/large.png"
+				},
+				"486": {
+					"name": "TMP",
+					"market_value": 2822,
+					"image": "https://www.torn.com/images/items/486/large.png"
+				},
+				"487": {
+					"name": "Thompson",
+					"market_value": 6075,
+					"image": "https://www.torn.com/images/items/487/large.png"
+				},
+				"488": {
+					"name": "MP 40",
+					"market_value": 5200,
+					"image": "https://www.torn.com/images/items/488/large.png"
+				},
+				"489": {
+					"name": "Luger",
+					"market_value": 45200,
+					"image": "https://www.torn.com/images/items/489/large.png"
+				},
+				"490": {
+					"name": "Blunderbuss",
+					"market_value": 9125,
+					"image": "https://www.torn.com/images/items/490/large.png"
+				},
+				"491": {
+					"name": "Zombie Brain",
+					"market_value": 0,
+					"image": "https://www.torn.com/images/items/491/large.png"
+				},
+				"492": {
+					"name": "Human Head",
+					"market_value": 0,
+					"image": "https://www.torn.com/images/items/492/large.png"
+				},
+				"493": {
+					"name": "Medal of Honor",
+					"market_value": 0,
+					"image": "https://www.torn.com/images/items/493/large.png"
+				},
+				"494": {
+					"name": "Citroen Saxo",
+					"market_value": 9706,
+					"image": "https://www.torn.com/images/items/494/large.png"
+				},
+				"495": {
+					"name": "Classic Mini",
+					"market_value": 10773,
+					"image": "https://www.torn.com/images/items/495/large.png"
+				},
+				"496": {
+					"name": "Fiat Punto",
+					"market_value": 111987,
+					"image": "https://www.torn.com/images/items/496/large.png"
+				},
+				"497": {
+					"name": "Nissan Micra",
+					"market_value": 24966,
+					"image": "https://www.torn.com/images/items/497/large.png"
+				},
+				"498": {
+					"name": "Peugeot 106",
+					"market_value": 6766,
+					"image": "https://www.torn.com/images/items/498/large.png"
+				},
+				"499": {
+					"name": "Renault Clio",
+					"market_value": 8648,
+					"image": "https://www.torn.com/images/items/499/large.png"
+				},
+				"500": {
+					"name": "Vauxhall Corsa",
+					"market_value": 9166,
+					"image": "https://www.torn.com/images/items/500/large.png"
+				},
+				"501": {
+					"name": "Volvo 850",
+					"market_value": 47493,
+					"image": "https://www.torn.com/images/items/501/large.png"
+				},
+				"502": {
+					"name": "Alfa Romeo 156",
+					"market_value": 12450,
+					"image": "https://www.torn.com/images/items/502/large.png"
+				},
+				"503": {
+					"name": "BMW X5",
+					"market_value": 34199,
+					"image": "https://www.torn.com/images/items/503/large.png"
+				},
+				"504": {
+					"name": "Seat Leon Cupra",
+					"market_value": 13225,
+					"image": "https://www.torn.com/images/items/504/large.png"
+				},
+				"505": {
+					"name": "Vauxhall Astra GSI",
+					"market_value": 8333,
+					"image": "https://www.torn.com/images/items/505/large.png"
+				},
+				"506": {
+					"name": "Volkswagen Golf GTI",
+					"market_value": 7593,
+					"image": "https://www.torn.com/images/items/506/large.png"
+				},
+				"507": {
+					"name": "Audi S3",
+					"market_value": 0,
+					"image": "https://www.torn.com/images/items/507/large.png"
+				},
+				"508": {
+					"name": "Ford Focus RS",
+					"market_value": 55200,
+					"image": "https://www.torn.com/images/items/508/large.png"
+				},
+				"509": {
+					"name": "Honda S2000",
+					"market_value": 19250,
+					"image": "https://www.torn.com/images/items/509/large.png"
+				},
+				"510": {
+					"name": "Mini Cooper S",
+					"market_value": 83729,
+					"image": "https://www.torn.com/images/items/510/large.png"
+				},
+				"511": {
+					"name": "Sierra Cosworth",
+					"market_value": 13500000,
+					"image": "https://www.torn.com/images/items/511/large.png"
+				},
+				"512": {
+					"name": "Lotus Exige",
+					"market_value": 20057,
+					"image": "https://www.torn.com/images/items/512/large.png"
+				},
+				"513": {
+					"name": "Mitsubishi Evo X",
+					"market_value": 517697,
+					"image": "https://www.torn.com/images/items/513/large.png"
+				},
+				"514": {
+					"name": "Porsche 911 GT3",
+					"market_value": 98288,
+					"image": "https://www.torn.com/images/items/514/large.png"
+				},
+				"515": {
+					"name": "Subaru Impreza STI",
+					"market_value": 50000,
+					"image": "https://www.torn.com/images/items/515/large.png"
+				},
+				"516": {
+					"name": "TVR Sagaris",
+					"market_value": 116333,
+					"image": "https://www.torn.com/images/items/516/large.png"
+				},
+				"517": {
+					"name": "Aston Martin One-77",
+					"market_value": 1250000,
+					"image": "https://www.torn.com/images/items/517/large.png"
+				},
+				"518": {
+					"name": "Audi R8",
+					"market_value": 163915,
+					"image": "https://www.torn.com/images/items/518/large.png"
+				},
+				"519": {
+					"name": "Bugatti Veyron",
+					"market_value": 0,
+					"image": "https://www.torn.com/images/items/519/large.png"
+				},
+				"520": {
+					"name": "Ferrari 458",
+					"market_value": 992500,
+					"image": "https://www.torn.com/images/items/520/large.png"
+				},
+				"521": {
+					"name": "Lamborghini Gallardo",
+					"market_value": 900000,
+					"image": "https://www.torn.com/images/items/521/large.png"
+				},
+				"522": {
+					"name": "Lexus LFA",
+					"market_value": 945833,
+					"image": "https://www.torn.com/images/items/522/large.png"
+				},
+				"523": {
+					"name": "Mercedes SLR",
+					"market_value": 90000,
+					"image": "https://www.torn.com/images/items/523/large.png"
+				},
+				"524": {
+					"name": "Nissan GT-R",
+					"market_value": 132950,
+					"image": "https://www.torn.com/images/items/524/large.png"
+				},
+				"525": {
+					"name": "Mr Torn Crown '10",
+					"market_value": 0,
+					"image": "https://www.torn.com/images/items/525/large.png"
+				},
+				"526": {
+					"name": "Ms Torn Crown '10",
+					"market_value": 0,
+					"image": "https://www.torn.com/images/items/526/large.png"
+				},
+				"527": {
+					"name": "Bag of Candy Kisses",
+					"market_value": 27271,
+					"image": "https://www.torn.com/images/items/527/large.png"
+				},
+				"528": {
+					"name": "Bag of Tootsie Rolls",
+					"market_value": 46697,
+					"image": "https://www.torn.com/images/items/528/large.png"
+				},
+				"529": {
+					"name": "Bag of Chocolate Truffles",
+					"market_value": 90994,
+					"image": "https://www.torn.com/images/items/529/large.png"
+				},
+				"530": {
+					"name": "Can of Munster",
+					"market_value": 1314644,
+					"image": "https://www.torn.com/images/items/530/large.png"
+				},
+				"531": {
+					"name": "Bottle of Pumpkin Brew",
+					"market_value": 73245,
+					"image": "https://www.torn.com/images/items/531/large.png"
+				},
+				"532": {
+					"name": "Can of Red Cow",
+					"market_value": 1819955,
+					"image": "https://www.torn.com/images/items/532/large.png"
+				},
+				"533": {
+					"name": "Can of Taurine Elite",
+					"market_value": 3304259,
+					"image": "https://www.torn.com/images/items/533/large.png"
+				},
+				"534": {
+					"name": "Witch's Cauldron",
+					"market_value": 0,
+					"image": "https://www.torn.com/images/items/534/large.png"
+				},
+				"535": {
+					"name": "Electronic Pumpkin",
+					"market_value": 200,
+					"image": "https://www.torn.com/images/items/535/large.png"
+				},
+				"536": {
+					"name": "Jack O Lantern Lamp",
+					"market_value": 0,
+					"image": "https://www.torn.com/images/items/536/large.png"
+				},
+				"537": {
+					"name": "Spooky Paper Weight",
+					"market_value": 0,
+					"image": "https://www.torn.com/images/items/537/large.png"
+				},
+				"538": {
+					"name": "Medieval Helmet",
+					"market_value": 5000000,
+					"image": "https://www.torn.com/images/items/538/large.png"
+				},
+				"539": {
+					"name": "Blood Spattered Sickle",
+					"market_value": 0,
+					"image": "https://www.torn.com/images/items/539/large.png"
+				},
+				"540": {
+					"name": "Cauldron",
+					"market_value": 0,
+					"image": "https://www.torn.com/images/items/540/large.png"
+				},
+				"541": {
+					"name": "Bottle of Stinky Swamp Punch",
+					"market_value": 342103,
+					"image": "https://www.torn.com/images/items/541/large.png"
+				},
+				"542": {
+					"name": "Bottle of Wicked Witch",
+					"market_value": 170100,
+					"image": "https://www.torn.com/images/items/542/large.png"
+				},
+				"543": {
+					"name": "Deputy Star",
+					"market_value": 0,
+					"image": "https://www.torn.com/images/items/543/large.png"
+				},
+				"544": {
+					"name": "Wind Proof Lighter",
+					"market_value": 38963333,
+					"image": "https://www.torn.com/images/items/544/large.png"
+				},
+				"545": {
+					"name": "Dual TMPs",
+					"market_value": 0,
+					"image": "https://www.torn.com/images/items/545/large.png"
+				},
+				"546": {
+					"name": "Dual Bushmasters",
+					"market_value": 0,
+					"image": "https://www.torn.com/images/items/546/large.png"
+				},
+				"547": {
+					"name": "Dual MP5s",
+					"market_value": 0,
+					"image": "https://www.torn.com/images/items/547/large.png"
+				},
+				"548": {
+					"name": "Dual P90s",
+					"market_value": 0,
+					"image": "https://www.torn.com/images/items/548/large.png"
+				},
+				"549": {
+					"name": "Dual Uzis",
+					"market_value": 0,
+					"image": "https://www.torn.com/images/items/549/large.png"
+				},
+				"550": {
+					"name": "Bottle of Kandy Kane",
+					"market_value": 70869,
+					"image": "https://www.torn.com/images/items/550/large.png"
+				},
+				"551": {
+					"name": "Bottle of Minty Mayhem",
+					"market_value": 161152,
+					"image": "https://www.torn.com/images/items/551/large.png"
+				},
+				"552": {
+					"name": "Bottle of Mistletoe Madness",
+					"market_value": 324852,
+					"image": "https://www.torn.com/images/items/552/large.png"
+				},
+				"553": {
+					"name": "Can of Santa Shooters",
+					"market_value": 1300584,
+					"image": "https://www.torn.com/images/items/553/large.png"
+				},
+				"554": {
+					"name": "Can of Rockstar Rudolph",
+					"market_value": 1824770,
+					"image": "https://www.torn.com/images/items/554/large.png"
+				},
+				"555": {
+					"name": "Can of X-MASS",
+					"market_value": 3302231,
+					"image": "https://www.torn.com/images/items/555/large.png"
+				},
+				"556": {
+					"name": "Bag of Reindeer Droppings",
+					"market_value": 91428,
+					"image": "https://www.torn.com/images/items/556/large.png"
+				},
+				"557": {
+					"name": "Advent Calendar",
+					"market_value": 20000,
+					"image": "https://www.torn.com/images/items/557/large.png"
+				},
+				"558": {
+					"name": "Santa's Snot",
+					"market_value": 21499,
+					"image": "https://www.torn.com/images/items/558/large.png"
+				},
+				"559": {
+					"name": "Polar Bear Toy",
+					"market_value": 43605,
+					"image": "https://www.torn.com/images/items/559/large.png"
+				},
+				"560": {
+					"name": "Fruitcake",
+					"market_value": 844,
+					"image": "https://www.torn.com/images/items/560/large.png"
+				},
+				"561": {
+					"name": "Book of Carols",
+					"market_value": 10008190,
+					"image": "https://www.torn.com/images/items/561/large.png"
+				},
+				"562": {
+					"name": "Sweater",
+					"market_value": 8628,
+					"image": "https://www.torn.com/images/items/562/large.png"
+				},
+				"563": {
+					"name": "Gift Card",
+					"market_value": 2635374,
+					"image": "https://www.torn.com/images/items/563/large.png"
+				},
+				"564": {
+					"name": "Glasses",
+					"market_value": 208125,
+					"image": "https://www.torn.com/images/items/564/large.png"
+				},
+				"565": {
+					"name": "High-Speed Drive",
+					"market_value": 191166,
+					"image": "https://www.torn.com/images/items/565/large.png"
+				},
+				"566": {
+					"name": "Mountain Bike",
+					"market_value": 857554,
+					"image": "https://www.torn.com/images/items/566/large.png"
+				},
+				"567": {
+					"name": "Cut-Throat Razor",
+					"market_value": 353816,
+					"image": "https://www.torn.com/images/items/567/large.png"
+				},
+				"568": {
+					"name": "Slim Crowbar",
+					"market_value": 243296,
+					"image": "https://www.torn.com/images/items/568/large.png"
+				},
+				"569": {
+					"name": "Balaclava",
+					"market_value": 987940,
+					"image": "https://www.torn.com/images/items/569/large.png"
+				},
+				"570": {
+					"name": "Advanced Driving Tactics Manual",
+					"market_value": 607246,
+					"image": "https://www.torn.com/images/items/570/large.png"
+				},
+				"571": {
+					"name": "Ergonomic Keyboard",
+					"market_value": 518634,
+					"image": "https://www.torn.com/images/items/571/large.png"
+				},
+				"572": {
+					"name": "Tracking Device",
+					"market_value": 219726,
+					"image": "https://www.torn.com/images/items/572/large.png"
+				},
+				"573": {
+					"name": "Screwdriver",
+					"market_value": 555084,
+					"image": "https://www.torn.com/images/items/573/large.png"
+				},
+				"574": {
+					"name": "Fanny Pack",
+					"market_value": 199998,
+					"image": "https://www.torn.com/images/items/574/large.png"
+				},
+				"575": {
+					"name": "Tumble Dryer",
+					"market_value": 180000,
+					"image": "https://www.torn.com/images/items/575/large.png"
+				},
+				"576": {
+					"name": "Chloroform",
+					"market_value": 228917,
+					"image": "https://www.torn.com/images/items/576/large.png"
+				},
+				"577": {
+					"name": "Heavy Duty Padlock",
+					"market_value": 193333,
+					"image": "https://www.torn.com/images/items/577/large.png"
+				},
+				"578": {
+					"name": "Duct Tape",
+					"market_value": 195874,
+					"image": "https://www.torn.com/images/items/578/large.png"
+				},
+				"579": {
+					"name": "Wireless Dongle",
+					"market_value": 282498,
+					"image": "https://www.torn.com/images/items/579/large.png"
+				},
+				"580": {
+					"name": "Horse's Head",
+					"market_value": 1726000,
+					"image": "https://www.torn.com/images/items/580/large.png"
+				},
+				"581": {
+					"name": "Book",
+					"market_value": 0,
+					"image": "https://www.torn.com/images/items/581/large.png"
+				},
+				"582": {
+					"name": "Tin Foil Hat",
+					"market_value": 0,
+					"image": "https://www.torn.com/images/items/582/large.png"
+				},
+				"583": {
+					"name": "Brown Easter Egg",
+					"market_value": 302000,
+					"image": "https://www.torn.com/images/items/583/large.png"
+				},
+				"584": {
+					"name": "Orange Easter Egg",
+					"market_value": 168400,
+					"image": "https://www.torn.com/images/items/584/large.png"
+				},
+				"585": {
+					"name": "Pink Easter Egg",
+					"market_value": 162347,
+					"image": "https://www.torn.com/images/items/585/large.png"
+				},
+				"586": {
+					"name": "Jawbreaker",
+					"market_value": 262074,
+					"image": "https://www.torn.com/images/items/586/large.png"
+				},
+				"587": {
+					"name": "Bag of Sherbet",
+					"market_value": 276249,
+					"image": "https://www.torn.com/images/items/587/large.png"
+				},
+				"588": {
+					"name": "Goodie Bag",
+					"market_value": 29370653,
+					"image": "https://www.torn.com/images/items/588/large.png"
+				},
+				"589": {
+					"name": "Undefined",
+					"market_value": 0,
+					"image": "https://www.torn.com/images/items/589/large.png"
+				},
+				"590": {
+					"name": "Undefined 2",
+					"market_value": 0,
+					"image": "https://www.torn.com/images/items/590/large.png"
+				},
+				"591": {
+					"name": "Undefined 3",
+					"market_value": 0,
+					"image": "https://www.torn.com/images/items/591/large.png"
+				},
+				"592": {
+					"name": "Undefined 4",
+					"market_value": 0,
+					"image": "https://www.torn.com/images/items/592/large.png"
+				},
+				"593": {
+					"name": "Mr Torn Crown '11",
+					"market_value": 0,
+					"image": "https://www.torn.com/images/items/593/large.png"
+				},
+				"594": {
+					"name": "Ms Torn Crown '11",
+					"market_value": 0,
+					"image": "https://www.torn.com/images/items/594/large.png"
+				},
+				"595": {
+					"name": "Pile of Vomit",
+					"market_value": 1975000,
+					"image": "https://www.torn.com/images/items/595/large.png"
+				},
+				"596": {
+					"name": "Rusty Dog Tag",
+					"market_value": 0,
+					"image": "https://www.torn.com/images/items/596/large.png"
+				},
+				"597": {
+					"name": "Gold Nugget",
+					"market_value": 0,
+					"image": "https://www.torn.com/images/items/597/large.png"
+				},
+				"598": {
+					"name": "Witch's Hat",
+					"market_value": 0,
+					"image": "https://www.torn.com/images/items/598/large.png"
+				},
+				"599": {
+					"name": "Golden Broomstick",
+					"market_value": 0,
+					"image": "https://www.torn.com/images/items/599/large.png"
+				},
+				"600": {
+					"name": "Devil's Pitchfork",
+					"market_value": 0,
+					"image": "https://www.torn.com/images/items/600/large.png"
+				},
+				"601": {
+					"name": "Christmas Lights",
+					"market_value": 94172,
+					"image": "https://www.torn.com/images/items/601/large.png"
+				},
+				"602": {
+					"name": "Gingerbread Man",
+					"market_value": 91500,
+					"image": "https://www.torn.com/images/items/602/large.png"
+				},
+				"603": {
+					"name": "Golden Wreath",
+					"market_value": 699454,
+					"image": "https://www.torn.com/images/items/603/large.png"
+				},
+				"604": {
+					"name": "Pair of Ice Skates",
+					"market_value": 506730,
+					"image": "https://www.torn.com/images/items/604/large.png"
+				},
+				"605": {
+					"name": "Diamond Icicle",
+					"market_value": 339408,
+					"image": "https://www.torn.com/images/items/605/large.png"
+				},
+				"606": {
+					"name": "Santa Boots",
+					"market_value": 384998,
+					"image": "https://www.torn.com/images/items/606/large.png"
+				},
+				"607": {
+					"name": "Santa Gloves",
+					"market_value": 225000,
+					"image": "https://www.torn.com/images/items/607/large.png"
+				},
+				"608": {
+					"name": "Santa Hat",
+					"market_value": 1520000,
+					"image": "https://www.torn.com/images/items/608/large.png"
+				},
+				"609": {
+					"name": "Santa Jacket",
+					"market_value": 606250,
+					"image": "https://www.torn.com/images/items/609/large.png"
+				},
+				"610": {
+					"name": "Santa Trousers",
+					"market_value": 340666,
+					"image": "https://www.torn.com/images/items/610/large.png"
+				},
+				"611": {
+					"name": "Snowball",
+					"market_value": 16484,
+					"image": "https://www.torn.com/images/items/611/large.png"
+				},
+				"612": {
+					"name": "Tavor TAR-21",
+					"market_value": 378853,
+					"image": "https://www.torn.com/images/items/612/large.png"
+				},
+				"613": {
+					"name": "Harpoon",
+					"market_value": 205316,
+					"image": "https://www.torn.com/images/items/613/large.png"
+				},
+				"614": {
+					"name": "Diamond Bladed Knife",
+					"market_value": 804890,
+					"image": "https://www.torn.com/images/items/614/large.png"
+				},
+				"615": {
+					"name": "Naval Cutlass",
+					"market_value": 0,
+					"image": "https://www.torn.com/images/items/615/large.png"
+				},
+				"616": {
+					"name": "Trout",
+					"market_value": 16322,
+					"image": "https://www.torn.com/images/items/616/large.png"
+				},
+				"617": {
+					"name": "Banana Orchid",
+					"market_value": 11527,
+					"image": "https://www.torn.com/images/items/617/large.png"
+				},
+				"618": {
+					"name": "Stingray Plushie",
+					"market_value": 10008,
+					"image": "https://www.torn.com/images/items/618/large.png"
+				},
+				"619": {
+					"name": "Steel Drum",
+					"market_value": 1800,
+					"image": "https://www.torn.com/images/items/619/large.png"
+				},
+				"620": {
+					"name": "Nodding Turtle",
+					"market_value": 1583,
+					"image": "https://www.torn.com/images/items/620/large.png"
+				},
+				"621": {
+					"name": "Snorkel",
+					"market_value": 14959,
+					"image": "https://www.torn.com/images/items/621/large.png"
+				},
+				"622": {
+					"name": "Flippers",
+					"market_value": 7000,
+					"image": "https://www.torn.com/images/items/622/large.png"
+				},
+				"623": {
+					"name": "Speedo",
+					"market_value": 9629,
+					"image": "https://www.torn.com/images/items/623/large.png"
+				},
+				"624": {
+					"name": "Bikini",
+					"market_value": 8416,
+					"image": "https://www.torn.com/images/items/624/large.png"
+				},
+				"625": {
+					"name": "Wetsuit",
+					"market_value": 29130,
+					"image": "https://www.torn.com/images/items/625/large.png"
+				},
+				"626": {
+					"name": "Diving Gloves",
+					"market_value": 3107,
+					"image": "https://www.torn.com/images/items/626/large.png"
+				},
+				"627": {
+					"name": "Dog Poop",
+					"market_value": 1748242,
+					"image": "https://www.torn.com/images/items/627/large.png"
+				},
+				"628": {
+					"name": "Stink Bombs",
+					"market_value": 1731804,
+					"image": "https://www.torn.com/images/items/628/large.png"
+				},
+				"629": {
+					"name": "Toilet Paper",
+					"market_value": 1700000,
+					"image": "https://www.torn.com/images/items/629/large.png"
+				},
+				"630": {
+					"name": "Mr Torn Crown '12",
+					"market_value": 0,
+					"image": "https://www.torn.com/images/items/630/large.png"
+				},
+				"631": {
+					"name": "Ms Torn Crown '12",
+					"market_value": 0,
+					"image": "https://www.torn.com/images/items/631/large.png"
+				},
+				"632": {
+					"name": "Petrified Humerus",
+					"market_value": 18000000,
+					"image": "https://www.torn.com/images/items/632/large.png"
+				},
+				"633": {
+					"name": "Latex Gloves",
+					"market_value": 12450000,
+					"image": "https://www.torn.com/images/items/633/large.png"
+				},
+				"634": {
+					"name": "Bag of Bloody Eyeballs",
+					"market_value": 90000,
+					"image": "https://www.torn.com/images/items/634/large.png"
+				},
+				"635": {
+					"name": "Straitjacket",
+					"market_value": 0,
+					"image": "https://www.torn.com/images/items/635/large.png"
+				},
+				"636": {
+					"name": "Cinnamon Ornament",
+					"market_value": 91600,
+					"image": "https://www.torn.com/images/items/636/large.png"
+				},
+				"637": {
+					"name": "Christmas Express",
+					"market_value": 775333,
+					"image": "https://www.torn.com/images/items/637/large.png"
+				},
+				"638": {
+					"name": "Bottle of Christmas Cocktail",
+					"market_value": 161123,
+					"image": "https://www.torn.com/images/items/638/large.png"
+				},
+				"639": {
+					"name": "Golden Candy Cane",
+					"market_value": 207998,
+					"image": "https://www.torn.com/images/items/639/large.png"
+				},
+				"640": {
+					"name": "Kevlar Gloves",
+					"market_value": 460817,
+					"image": "https://www.torn.com/images/items/640/large.png"
+				},
+				"641": {
+					"name": "WWII Helmet",
+					"market_value": 111369,
+					"image": "https://www.torn.com/images/items/641/large.png"
+				},
+				"642": {
+					"name": "Motorcycle Helmet",
+					"market_value": 4999990,
+					"image": "https://www.torn.com/images/items/642/large.png"
+				},
+				"643": {
+					"name": "Construction Helmet",
+					"market_value": 15138,
+					"image": "https://www.torn.com/images/items/643/large.png"
+				},
+				"644": {
+					"name": "Welding Helmet",
+					"market_value": 0,
+					"image": "https://www.torn.com/images/items/644/large.png"
+				},
+				"645": {
+					"name": "Safety Boots",
+					"market_value": 82881,
+					"image": "https://www.torn.com/images/items/645/large.png"
+				},
+				"646": {
+					"name": "Hiking Boots",
+					"market_value": 6576,
+					"image": "https://www.torn.com/images/items/646/large.png"
+				},
+				"647": {
+					"name": "Leather Helmet",
+					"market_value": 1350,
+					"image": "https://www.torn.com/images/items/647/large.png"
+				},
+				"648": {
+					"name": "Leather Pants",
+					"market_value": 1100,
+					"image": "https://www.torn.com/images/items/648/large.png"
+				},
+				"649": {
+					"name": "Leather Boots",
+					"market_value": 977,
+					"image": "https://www.torn.com/images/items/649/large.png"
+				},
+				"650": {
+					"name": "Leather Gloves",
+					"market_value": 650,
+					"image": "https://www.torn.com/images/items/650/large.png"
+				},
+				"651": {
+					"name": "Combat Helmet",
+					"market_value": 3070279,
+					"image": "https://www.torn.com/images/items/651/large.png"
+				},
+				"652": {
+					"name": "Combat Pants",
+					"market_value": 3002948,
+					"image": "https://www.torn.com/images/items/652/large.png"
+				},
+				"653": {
+					"name": "Combat Boots",
+					"market_value": 2115066,
+					"image": "https://www.torn.com/images/items/653/large.png"
+				},
+				"654": {
+					"name": "Combat Gloves",
+					"market_value": 1985895,
+					"image": "https://www.torn.com/images/items/654/large.png"
+				},
+				"655": {
+					"name": "Riot Helmet",
+					"market_value": 0,
+					"image": "https://www.torn.com/images/items/655/large.png"
+				},
+				"656": {
+					"name": "Riot Body",
+					"market_value": 0,
+					"image": "https://www.torn.com/images/items/656/large.png"
+				},
+				"657": {
+					"name": "Riot Pants",
+					"market_value": 0,
+					"image": "https://www.torn.com/images/items/657/large.png"
+				},
+				"658": {
+					"name": "Riot Boots",
+					"market_value": 0,
+					"image": "https://www.torn.com/images/items/658/large.png"
+				},
+				"659": {
+					"name": "Riot Gloves",
+					"market_value": 0,
+					"image": "https://www.torn.com/images/items/659/large.png"
+				},
+				"660": {
+					"name": "Dune Helmet",
+					"market_value": 0,
+					"image": "https://www.torn.com/images/items/660/large.png"
+				},
+				"661": {
+					"name": "Dune Vest",
+					"market_value": 0,
+					"image": "https://www.torn.com/images/items/661/large.png"
+				},
+				"662": {
+					"name": "Dune Pants",
+					"market_value": 0,
+					"image": "https://www.torn.com/images/items/662/large.png"
+				},
+				"663": {
+					"name": "Dune Boots",
+					"market_value": 0,
+					"image": "https://www.torn.com/images/items/663/large.png"
+				},
+				"664": {
+					"name": "Dune Gloves",
+					"market_value": 0,
+					"image": "https://www.torn.com/images/items/664/large.png"
+				},
+				"665": {
+					"name": "Assault Helmet",
+					"market_value": 0,
+					"image": "https://www.torn.com/images/items/665/large.png"
+				},
+				"666": {
+					"name": "Assault Body",
+					"market_value": 0,
+					"image": "https://www.torn.com/images/items/666/large.png"
+				},
+				"667": {
+					"name": "Assault Pants",
+					"market_value": 0,
+					"image": "https://www.torn.com/images/items/667/large.png"
+				},
+				"668": {
+					"name": "Assault Boots",
+					"market_value": 0,
+					"image": "https://www.torn.com/images/items/668/large.png"
+				},
+				"669": {
+					"name": "Assault Gloves",
+					"market_value": 0,
+					"image": "https://www.torn.com/images/items/669/large.png"
+				},
+				"670": {
+					"name": "Delta Gas Mask",
+					"market_value": 0,
+					"image": "https://www.torn.com/images/items/670/large.png"
+				},
+				"671": {
+					"name": "Delta Body",
+					"market_value": 0,
+					"image": "https://www.torn.com/images/items/671/large.png"
+				},
+				"672": {
+					"name": "Delta Pants",
+					"market_value": 0,
+					"image": "https://www.torn.com/images/items/672/large.png"
+				},
+				"673": {
+					"name": "Delta Boots",
+					"market_value": 0,
+					"image": "https://www.torn.com/images/items/673/large.png"
+				},
+				"674": {
+					"name": "Delta Gloves",
+					"market_value": 0,
+					"image": "https://www.torn.com/images/items/674/large.png"
+				},
+				"675": {
+					"name": "Marauder Face Mask",
+					"market_value": 0,
+					"image": "https://www.torn.com/images/items/675/large.png"
+				},
+				"676": {
+					"name": "Marauder Body",
+					"market_value": 0,
+					"image": "https://www.torn.com/images/items/676/large.png"
+				},
+				"677": {
+					"name": "Marauder Pants",
+					"market_value": 0,
+					"image": "https://www.torn.com/images/items/677/large.png"
+				},
+				"678": {
+					"name": "Marauder Boots",
+					"market_value": 0,
+					"image": "https://www.torn.com/images/items/678/large.png"
+				},
+				"679": {
+					"name": "Marauder Gloves",
+					"market_value": 0,
+					"image": "https://www.torn.com/images/items/679/large.png"
+				},
+				"680": {
+					"name": "EOD Helmet",
+					"market_value": 0,
+					"image": "https://www.torn.com/images/items/680/large.png"
+				},
+				"681": {
+					"name": "EOD Apron",
+					"market_value": 0,
+					"image": "https://www.torn.com/images/items/681/large.png"
+				},
+				"682": {
+					"name": "EOD Pants",
+					"market_value": 0,
+					"image": "https://www.torn.com/images/items/682/large.png"
+				},
+				"683": {
+					"name": "EOD Boots",
+					"market_value": 0,
+					"image": "https://www.torn.com/images/items/683/large.png"
+				},
+				"684": {
+					"name": "EOD Gloves",
+					"market_value": 0,
+					"image": "https://www.torn.com/images/items/684/large.png"
+				},
+				"685": {
+					"name": "Torn Bible",
+					"market_value": 0,
+					"image": "https://www.torn.com/images/items/685/large.png"
+				},
+				"686": {
+					"name": "Friendly Bot Guide",
+					"market_value": 0,
+					"image": "https://www.torn.com/images/items/686/large.png"
+				},
+				"687": {
+					"name": "Egotistical Bear",
+					"market_value": 0,
+					"image": "https://www.torn.com/images/items/687/large.png"
+				},
+				"688": {
+					"name": "Brewery Key",
+					"market_value": 0,
+					"image": "https://www.torn.com/images/items/688/large.png"
+				},
+				"689": {
+					"name": "Signed Jersey",
+					"market_value": 0,
+					"image": "https://www.torn.com/images/items/689/large.png"
+				},
+				"690": {
+					"name": "Mafia Kit",
+					"market_value": 0,
+					"image": "https://www.torn.com/images/items/690/large.png"
+				},
+				"691": {
+					"name": "Octopus Toy",
+					"market_value": 0,
+					"image": "https://www.torn.com/images/items/691/large.png"
+				},
+				"692": {
+					"name": "Bear Skin Rug",
+					"market_value": 0,
+					"image": "https://www.torn.com/images/items/692/large.png"
+				},
+				"693": {
+					"name": "Tractor Toy",
+					"market_value": 0,
+					"image": "https://www.torn.com/images/items/693/large.png"
+				},
+				"694": {
+					"name": "Mr Torn Crown '13",
+					"market_value": 0,
+					"image": "https://www.torn.com/images/items/694/large.png"
+				},
+				"695": {
+					"name": "Ms Torn Crown '13",
+					"market_value": 0,
+					"image": "https://www.torn.com/images/items/695/large.png"
+				},
+				"696": {
+					"name": "Piece of Cake",
+					"market_value": 0,
+					"image": "https://www.torn.com/images/items/696/large.png"
+				},
+				"697": {
+					"name": "Rotten Eggs",
+					"market_value": 0,
+					"image": "https://www.torn.com/images/items/697/large.png"
+				},
+				"698": {
+					"name": "Peg Leg",
+					"market_value": 4525321,
+					"image": "https://www.torn.com/images/items/698/large.png"
+				},
+				"699": {
+					"name": "Antidote",
+					"market_value": 0,
+					"image": "https://www.torn.com/images/items/699/large.png"
+				},
+				"700": {
+					"name": "Christmas Angel",
+					"market_value": 24129,
+					"image": "https://www.torn.com/images/items/700/large.png"
+				},
+				"701": {
+					"name": "Eggnog",
+					"market_value": 0,
+					"image": "https://www.torn.com/images/items/701/large.png"
+				},
+				"702": {
+					"name": "Sprig of Holly",
+					"market_value": 28500,
+					"image": "https://www.torn.com/images/items/702/large.png"
+				},
+				"703": {
+					"name": "Festive Socks",
+					"market_value": 207120,
+					"image": "https://www.torn.com/images/items/703/large.png"
+				},
+				"704": {
+					"name": "Respo Hoodie",
+					"market_value": 0,
+					"image": "https://www.torn.com/images/items/704/large.png"
+				},
+				"705": {
+					"name": "Staff Haxx Button",
+					"market_value": 0,
+					"image": "https://www.torn.com/images/items/705/large.png"
+				},
+				"706": {
+					"name": "Birthday Cake '14",
+					"market_value": 6000001,
+					"image": "https://www.torn.com/images/items/706/large.png"
+				},
+				"707": {
+					"name": "Lump of Coal",
+					"market_value": 71259,
+					"image": "https://www.torn.com/images/items/707/large.png"
+				},
+				"708": {
+					"name": "Gold Ribbon",
+					"market_value": 0,
+					"image": "https://www.torn.com/images/items/708/large.png"
+				},
+				"709": {
+					"name": "Silver Ribbon",
+					"market_value": 0,
+					"image": "https://www.torn.com/images/items/709/large.png"
+				},
+				"710": {
+					"name": "Bronze Ribbon",
+					"market_value": 0,
+					"image": "https://www.torn.com/images/items/710/large.png"
+				},
+				"711": {
+					"name": "Coin : Factions",
+					"market_value": 0,
+					"image": "https://www.torn.com/images/items/711/large.png"
+				},
+				"712": {
+					"name": "Coin : Casino",
+					"market_value": 0,
+					"image": "https://www.torn.com/images/items/712/large.png"
+				},
+				"713": {
+					"name": "Coin : Education",
+					"market_value": 0,
+					"image": "https://www.torn.com/images/items/713/large.png"
+				},
+				"714": {
+					"name": "Coin : Hospital",
+					"market_value": 0,
+					"image": "https://www.torn.com/images/items/714/large.png"
+				},
+				"715": {
+					"name": "Coin : Jail",
+					"market_value": 0,
+					"image": "https://www.torn.com/images/items/715/large.png"
+				},
+				"716": {
+					"name": "Coin : Travel Agency",
+					"market_value": 0,
+					"image": "https://www.torn.com/images/items/716/large.png"
+				},
+				"717": {
+					"name": "Coin : Companies",
+					"market_value": 0,
+					"image": "https://www.torn.com/images/items/717/large.png"
+				},
+				"718": {
+					"name": "Coin : Stock Exchange",
+					"market_value": 0,
+					"image": "https://www.torn.com/images/items/718/large.png"
+				},
+				"719": {
+					"name": "Coin : Church",
+					"market_value": 0,
+					"image": "https://www.torn.com/images/items/719/large.png"
+				},
+				"720": {
+					"name": "Coin : Auction House",
+					"market_value": 0,
+					"image": "https://www.torn.com/images/items/720/large.png"
+				},
+				"721": {
+					"name": "Coin : Race Track",
+					"market_value": 0,
+					"image": "https://www.torn.com/images/items/721/large.png"
+				},
+				"722": {
+					"name": "Coin : Museum",
+					"market_value": 0,
+					"image": "https://www.torn.com/images/items/722/large.png"
+				},
+				"723": {
+					"name": "Coin : Drugs",
+					"market_value": 0,
+					"image": "https://www.torn.com/images/items/723/large.png"
+				},
+				"724": {
+					"name": "Coin : Dump",
+					"market_value": 0,
+					"image": "https://www.torn.com/images/items/724/large.png"
+				},
+				"725": {
+					"name": "Coin : Estate Agents",
+					"market_value": 0,
+					"image": "https://www.torn.com/images/items/725/large.png"
+				},
+				"726": {
+					"name": "Scrooge's Top Hat",
+					"market_value": 0,
+					"image": "https://www.torn.com/images/items/726/large.png"
+				},
+				"727": {
+					"name": "Scrooge's Topcoat",
+					"market_value": 0,
+					"image": "https://www.torn.com/images/items/727/large.png"
+				},
+				"728": {
+					"name": "Scrooge's Trousers",
+					"market_value": 0,
+					"image": "https://www.torn.com/images/items/728/large.png"
+				},
+				"729": {
+					"name": "Scrooge's Boots",
+					"market_value": 0,
+					"image": "https://www.torn.com/images/items/729/large.png"
+				},
+				"730": {
+					"name": "Scrooge's Gloves",
+					"market_value": 0,
+					"image": "https://www.torn.com/images/items/730/large.png"
+				},
+				"731": {
+					"name": "Empty Blood Bag",
+					"market_value": 16218,
+					"image": "https://www.torn.com/images/items/731/large.png"
+				},
+				"732": {
+					"name": "Blood Bag : A+",
+					"market_value": 23203,
+					"image": "https://www.torn.com/images/items/732/large.png"
+				},
+				"733": {
+					"name": "Blood Bag : A-",
+					"market_value": 28975,
+					"image": "https://www.torn.com/images/items/733/large.png"
+				},
+				"734": {
+					"name": "Blood Bag : B+",
+					"market_value": 23614,
+					"image": "https://www.torn.com/images/items/734/large.png"
+				},
+				"735": {
+					"name": "Blood Bag : B-",
+					"market_value": 31846,
+					"image": "https://www.torn.com/images/items/735/large.png"
+				},
+				"736": {
+					"name": "Blood Bag : AB+",
+					"market_value": 25665,
+					"image": "https://www.torn.com/images/items/736/large.png"
+				},
+				"737": {
+					"name": "Blood Bag : AB-",
+					"market_value": 43166,
+					"image": "https://www.torn.com/images/items/737/large.png"
+				},
+				"738": {
+					"name": "Blood Bag : O+",
+					"market_value": 23966,
+					"image": "https://www.torn.com/images/items/738/large.png"
+				},
+				"739": {
+					"name": "Blood Bag : O-",
+					"market_value": 29996,
+					"image": "https://www.torn.com/images/items/739/large.png"
+				},
+				"740": {
+					"name": "Mr Torn Crown",
+					"market_value": 0,
+					"image": "https://www.torn.com/images/items/740/large.png"
+				},
+				"741": {
+					"name": "Ms Torn Crown",
+					"market_value": 0,
+					"image": "https://www.torn.com/images/items/741/large.png"
+				},
+				"742": {
+					"name": "Molotov Cocktail",
+					"market_value": 85199,
+					"image": "https://www.torn.com/images/items/742/large.png"
+				},
+				"743": {
+					"name": "Christmas Sweater '15",
+					"market_value": 0,
+					"image": "https://www.torn.com/images/items/743/large.png"
+				},
+				"744": {
+					"name": "Book : Brawn Over Brains",
+					"market_value": 0,
+					"image": "https://www.torn.com/images/items/744/large.png"
+				},
+				"745": {
+					"name": "Book : Time Is In The Mind",
+					"market_value": 0,
+					"image": "https://www.torn.com/images/items/745/large.png"
+				},
+				"746": {
+					"name": "Book : Keeping Your Face Handsome",
+					"market_value": 0,
+					"image": "https://www.torn.com/images/items/746/large.png"
+				},
+				"747": {
+					"name": "Book : A Job For Your Hands",
+					"market_value": 0,
+					"image": "https://www.torn.com/images/items/747/large.png"
+				},
+				"748": {
+					"name": "Book : Working 9 Til 5",
+					"market_value": 0,
+					"image": "https://www.torn.com/images/items/748/large.png"
+				},
+				"749": {
+					"name": "Book : Making Friends, Enemies, And Cakes",
+					"market_value": 0,
+					"image": "https://www.torn.com/images/items/749/large.png"
+				},
+				"750": {
+					"name": "Book : High School For Adults",
+					"market_value": 0,
+					"image": "https://www.torn.com/images/items/750/large.png"
+				},
+				"751": {
+					"name": "Book : Milk Yourself Sober",
+					"market_value": 0,
+					"image": "https://www.torn.com/images/items/751/large.png"
+				},
+				"752": {
+					"name": "Book : Fight Like An Asshole",
+					"market_value": 0,
+					"image": "https://www.torn.com/images/items/752/large.png"
+				},
+				"753": {
+					"name": "Book : Mind Over Matter",
+					"market_value": 0,
+					"image": "https://www.torn.com/images/items/753/large.png"
+				},
+				"754": {
+					"name": "Book : No Shame No Pain",
+					"market_value": 0,
+					"image": "https://www.torn.com/images/items/754/large.png"
+				},
+				"755": {
+					"name": "Book : Run Like The Wind",
+					"market_value": 0,
+					"image": "https://www.torn.com/images/items/755/large.png"
+				},
+				"756": {
+					"name": "Book : Weaseling Out Of Trouble",
+					"market_value": 0,
+					"image": "https://www.torn.com/images/items/756/large.png"
+				},
+				"757": {
+					"name": "Book : Get Hard Or Go Home",
+					"market_value": 0,
+					"image": "https://www.torn.com/images/items/757/large.png"
+				},
+				"758": {
+					"name": "Book : Gym Grunting - Shouting To Success",
+					"market_value": 0,
+					"image": "https://www.torn.com/images/items/758/large.png"
+				},
+				"759": {
+					"name": "Book : Self Defense In The Workplace",
+					"market_value": 0,
+					"image": "https://www.torn.com/images/items/759/large.png"
+				},
+				"760": {
+					"name": "Book : Speed 3 - The Rejected Script",
+					"market_value": 0,
+					"image": "https://www.torn.com/images/items/760/large.png"
+				},
+				"761": {
+					"name": "Book : Limbo Lovers 101",
+					"market_value": 0,
+					"image": "https://www.torn.com/images/items/761/large.png"
+				},
+				"762": {
+					"name": "Book : The Hamburglar's Guide To Crime",
+					"market_value": 0,
+					"image": "https://www.torn.com/images/items/762/large.png"
+				},
+				"763": {
+					"name": "Book : What Are Old Folk Good For Anyway?",
+					"market_value": 0,
+					"image": "https://www.torn.com/images/items/763/large.png"
+				},
+				"764": {
+					"name": "Book : Medical Degree Schmedical Degree",
+					"market_value": 0,
+					"image": "https://www.torn.com/images/items/764/large.png"
+				},
+				"765": {
+					"name": "Book : No More Soap On A Rope",
+					"market_value": 0,
+					"image": "https://www.torn.com/images/items/765/large.png"
+				},
+				"766": {
+					"name": "Book : Mailing Yourself Abroad",
+					"market_value": 0,
+					"image": "https://www.torn.com/images/items/766/large.png"
+				},
+				"767": {
+					"name": "Book : Smuggling For Beginners",
+					"market_value": 0,
+					"image": "https://www.torn.com/images/items/767/large.png"
+				},
+				"768": {
+					"name": "Book : Stealthy Stealing of Underwear",
+					"market_value": 0,
+					"image": "https://www.torn.com/images/items/768/large.png"
+				},
+				"769": {
+					"name": "Book : Shawshank Sure Ain't For Me!",
+					"market_value": 0,
+					"image": "https://www.torn.com/images/items/769/large.png"
+				},
+				"770": {
+					"name": "Book : Ignorance Is Bliss",
+					"market_value": 0,
+					"image": "https://www.torn.com/images/items/770/large.png"
+				},
+				"771": {
+					"name": "Book : Winking To Win",
+					"market_value": 0,
+					"image": "https://www.torn.com/images/items/771/large.png"
+				},
+				"772": {
+					"name": "Book : Finders Keepers",
+					"market_value": 0,
+					"image": "https://www.torn.com/images/items/772/large.png"
+				},
+				"773": {
+					"name": "Book : Hot Turkey",
+					"market_value": 0,
+					"image": "https://www.torn.com/images/items/773/large.png"
+				},
+				"774": {
+					"name": "Book : Higher Daddy, Higher!",
+					"market_value": 0,
+					"image": "https://www.torn.com/images/items/774/large.png"
+				},
+				"775": {
+					"name": "Book : The Real Dutch Courage",
+					"market_value": 0,
+					"image": "https://www.torn.com/images/items/775/large.png"
+				},
+				"776": {
+					"name": "Book : Because I'm Happy - The Pharrell Story",
+					"market_value": 0,
+					"image": "https://www.torn.com/images/items/776/large.png"
+				},
+				"777": {
+					"name": "Book : No More Sick Days",
+					"market_value": 0,
+					"image": "https://www.torn.com/images/items/777/large.png"
+				},
+				"778": {
+					"name": "Book : Duke - My Story",
+					"market_value": 0,
+					"image": "https://www.torn.com/images/items/778/large.png"
+				},
+				"779": {
+					"name": "Book : Self Control Is For Losers",
+					"market_value": 0,
+					"image": "https://www.torn.com/images/items/779/large.png"
+				},
+				"780": {
+					"name": "Book : Going Back For More",
+					"market_value": 0,
+					"image": "https://www.torn.com/images/items/780/large.png"
+				},
+				"781": {
+					"name": "Book : Get Drunk And Lose Dignity",
+					"market_value": 0,
+					"image": "https://www.torn.com/images/items/781/large.png"
+				},
+				"782": {
+					"name": "Book : Fuelling Your Way To Failure",
+					"market_value": 0,
+					"image": "https://www.torn.com/images/items/782/large.png"
+				},
+				"783": {
+					"name": "Book : Yes Please Diabetes",
+					"market_value": 0,
+					"image": "https://www.torn.com/images/items/783/large.png"
+				},
+				"784": {
+					"name": "Book : Ugly Energy",
+					"market_value": 0,
+					"image": "https://www.torn.com/images/items/784/large.png"
+				},
+				"785": {
+					"name": "Book : Memories And Mammaries",
+					"market_value": 0,
+					"image": "https://www.torn.com/images/items/785/large.png"
+				},
+				"786": {
+					"name": "Book : Brown-nosing The Boss",
+					"market_value": 0,
+					"image": "https://www.torn.com/images/items/786/large.png"
+				},
+				"787": {
+					"name": "Book : Running Away From Trouble",
+					"market_value": 0,
+					"image": "https://www.torn.com/images/items/787/large.png"
+				},
+				"788": {
+					"name": "Certificate of Awesome",
+					"market_value": 38427,
+					"image": "https://www.torn.com/images/items/788/large.png"
+				},
+				"789": {
+					"name": "Certificate of Lame",
+					"market_value": 7225,
+					"image": "https://www.torn.com/images/items/789/large.png"
+				},
+				"790": {
+					"name": "Plastic Sword",
+					"market_value": 92,
+					"image": "https://www.torn.com/images/items/790/large.png"
+				},
+				"791": {
+					"name": "Mediocre T-Shirt",
+					"market_value": 4273,
+					"image": "https://www.torn.com/images/items/791/large.png"
+				},
+				"792": {
+					"name": "Penelope",
+					"market_value": 0,
+					"image": "https://www.torn.com/images/items/792/large.png"
+				},
+				"793": {
+					"name": "Cake Frosting",
+					"market_value": 0,
+					"image": "https://www.torn.com/images/items/793/large.png"
+				},
+				"794": {
+					"name": "Lock Picking Kit",
+					"market_value": 0,
+					"image": "https://www.torn.com/images/items/794/large.png"
+				},
+				"795": {
+					"name": "Special Fruitcake",
+					"market_value": 0,
+					"image": "https://www.torn.com/images/items/795/large.png"
+				},
+				"796": {
+					"name": "Felovax",
+					"market_value": 0,
+					"image": "https://www.torn.com/images/items/796/large.png"
+				},
+				"797": {
+					"name": "Zylkene",
+					"market_value": 0,
+					"image": "https://www.torn.com/images/items/797/large.png"
+				},
+				"798": {
+					"name": "Duke's Safe",
+					"market_value": 0,
+					"image": "https://www.torn.com/images/items/798/large.png"
+				},
+				"799": {
+					"name": "Duke's Selfies",
+					"market_value": 0,
+					"image": "https://www.torn.com/images/items/799/large.png"
+				},
+				"800": {
+					"name": "Duke's Poetry",
+					"market_value": 0,
+					"image": "https://www.torn.com/images/items/800/large.png"
+				},
+				"801": {
+					"name": "Duke's Dog's Ashes",
+					"market_value": 0,
+					"image": "https://www.torn.com/images/items/801/large.png"
+				},
+				"802": {
+					"name": "Duke's Will",
+					"market_value": 0,
+					"image": "https://www.torn.com/images/items/802/large.png"
+				},
+				"803": {
+					"name": "Duke's Gimp Mask",
+					"market_value": 0,
+					"image": "https://www.torn.com/images/items/803/large.png"
+				},
+				"804": {
+					"name": "Duke's Herpes Medication",
+					"market_value": 0,
+					"image": "https://www.torn.com/images/items/804/large.png"
+				},
+				"805": {
+					"name": "Duke's Hammer",
+					"market_value": 0,
+					"image": "https://www.torn.com/images/items/805/large.png"
+				},
+				"806": {
+					"name": "Old Lady Mask",
+					"market_value": 24346,
+					"image": "https://www.torn.com/images/items/806/large.png"
+				},
+				"807": {
+					"name": "Exotic Gentleman Mask",
+					"market_value": 28562,
+					"image": "https://www.torn.com/images/items/807/large.png"
+				},
+				"808": {
+					"name": "Ginger Kid Mask",
+					"market_value": 69751,
+					"image": "https://www.torn.com/images/items/808/large.png"
+				},
+				"809": {
+					"name": "Young Lady Mask",
+					"market_value": 31445,
+					"image": "https://www.torn.com/images/items/809/large.png"
+				},
+				"810": {
+					"name": "Moustache Man Mask",
+					"market_value": 28558,
+					"image": "https://www.torn.com/images/items/810/large.png"
+				},
+				"811": {
+					"name": "Scarred Man Mask",
+					"market_value": 28163,
+					"image": "https://www.torn.com/images/items/811/large.png"
+				},
+				"812": {
+					"name": "Psycho Clown Mask",
+					"market_value": 147600,
+					"image": "https://www.torn.com/images/items/812/large.png"
+				},
+				"813": {
+					"name": "Nun Mask",
+					"market_value": 34884,
+					"image": "https://www.torn.com/images/items/813/large.png"
+				},
+				"814": {
+					"name": "Tyrosine",
+					"market_value": 609667,
+					"image": "https://www.torn.com/images/items/814/large.png"
+				},
+				"815": {
+					"name": "Keg of Beer",
+					"market_value": 8800000,
+					"image": "https://www.torn.com/images/items/815/large.png"
+				},
+				"816": {
+					"name": "Glass of Beer",
+					"market_value": 0,
+					"image": "https://www.torn.com/images/items/816/large.png"
+				},
+				"817": {
+					"name": "Six Pack of Alcohol",
+					"market_value": 1090058,
+					"image": "https://www.torn.com/images/items/817/large.png"
+				},
+				"818": {
+					"name": "Six Pack of Energy Drink",
+					"market_value": 12239377,
+					"image": "https://www.torn.com/images/items/818/large.png"
+				},
+				"819": {
+					"name": "Rosary Beads",
+					"market_value": 11770833,
+					"image": "https://www.torn.com/images/items/819/large.png"
+				},
+				"820": {
+					"name": "Piggy Bank",
+					"market_value": 0,
+					"image": "https://www.torn.com/images/items/820/large.png"
+				},
+				"821": {
+					"name": "Empty Vial",
+					"market_value": 0,
+					"image": "https://www.torn.com/images/items/821/large.png"
+				},
+				"822": {
+					"name": "Vial of Blood",
+					"market_value": 0,
+					"image": "https://www.torn.com/images/items/822/large.png"
+				},
+				"823": {
+					"name": "Vial of Urine",
+					"market_value": 0,
+					"image": "https://www.torn.com/images/items/823/large.png"
+				},
+				"824": {
+					"name": "Vial of Saliva",
+					"market_value": 0,
+					"image": "https://www.torn.com/images/items/824/large.png"
+				},
+				"825": {
+					"name": "Questionnaire ",
+					"market_value": 0,
+					"image": "https://www.torn.com/images/items/825/large.png"
+				},
+				"826": {
+					"name": "Agreement",
+					"market_value": 0,
+					"image": "https://www.torn.com/images/items/826/large.png"
+				},
+				"827": {
+					"name": "Perceptron : Calibrator",
+					"market_value": 0,
+					"image": "https://www.torn.com/images/items/827/large.png"
+				},
+				"828": {
+					"name": "Donald Trump Mask '16",
+					"market_value": 0,
+					"image": "https://www.torn.com/images/items/828/large.png"
+				},
+				"829": {
+					"name": "Yellow Snowman '16",
+					"market_value": 0,
+					"image": "https://www.torn.com/images/items/829/large.png"
+				},
+				"830": {
+					"name": "Nock Gun",
+					"market_value": 0,
+					"image": "https://www.torn.com/images/items/830/large.png"
+				},
+				"831": {
+					"name": "Beretta Pico",
+					"market_value": 80055556,
+					"image": "https://www.torn.com/images/items/831/large.png"
+				},
+				"832": {
+					"name": "Riding Crop",
+					"market_value": 0,
+					"image": "https://www.torn.com/images/items/832/large.png"
+				},
+				"833": {
+					"name": "Sand",
+					"market_value": 1116667,
+					"image": "https://www.torn.com/images/items/833/large.png"
+				},
+				"834": {
+					"name": "Sweatpants",
+					"market_value": 2214075,
+					"image": "https://www.torn.com/images/items/834/large.png"
+				},
+				"835": {
+					"name": "String Vest",
+					"market_value": 850002,
+					"image": "https://www.torn.com/images/items/835/large.png"
+				},
+				"836": {
+					"name": "Black Oxfords",
+					"market_value": 11333000,
+					"image": "https://www.torn.com/images/items/836/large.png"
+				},
+				"837": {
+					"name": "Rheinmetall MG 3",
+					"market_value": 0,
+					"image": "https://www.torn.com/images/items/837/large.png"
+				},
+				"838": {
+					"name": "Homemade Pocket Shotgun",
+					"market_value": 0,
+					"image": "https://www.torn.com/images/items/838/large.png"
+				},
+				"839": {
+					"name": "Madball",
+					"market_value": 0,
+					"image": "https://www.torn.com/images/items/839/large.png"
+				},
+				"840": {
+					"name": "Nail Bomb",
+					"market_value": 4099993,
+					"image": "https://www.torn.com/images/items/840/large.png"
+				},
+				"841": {
+					"name": "Classic Fedora",
+					"market_value": 0,
+					"image": "https://www.torn.com/images/items/841/large.png"
+				},
+				"842": {
+					"name": "Pinstripe Suit Trousers",
+					"market_value": 2000001,
+					"image": "https://www.torn.com/images/items/842/large.png"
+				},
+				"843": {
+					"name": "Duster",
+					"market_value": 0,
+					"image": "https://www.torn.com/images/items/843/large.png"
+				},
+				"844": {
+					"name": "Tranquilizer Gun ",
+					"market_value": 0,
+					"image": "https://www.torn.com/images/items/844/large.png"
+				},
+				"845": {
+					"name": "Bolt Gun",
+					"market_value": 0,
+					"image": "https://www.torn.com/images/items/845/large.png"
+				},
+				"846": {
+					"name": "Scalpel",
+					"market_value": 0,
+					"image": "https://www.torn.com/images/items/846/large.png"
+				},
+				"847": {
+					"name": "Nerve Gas",
+					"market_value": 0,
+					"image": "https://www.torn.com/images/items/847/large.png"
+				},
+				"848": {
+					"name": "Kevlar Lab Coat",
+					"market_value": 0,
+					"image": "https://www.torn.com/images/items/848/large.png"
+				},
+				"849": {
+					"name": "Loupes",
+					"market_value": 0,
+					"image": "https://www.torn.com/images/items/849/large.png"
+				},
+				"850": {
+					"name": "Sledgehammer",
+					"market_value": 0,
+					"image": "https://www.torn.com/images/items/850/large.png"
+				},
+				"851": {
+					"name": "Wifebeater",
+					"market_value": 0,
+					"image": "https://www.torn.com/images/items/851/large.png"
+				},
+				"852": {
+					"name": "Metal Detector",
+					"market_value": 0,
+					"image": "https://www.torn.com/images/items/852/large.png"
+				},
+				"853": {
+					"name": "Graveyard Key",
+					"market_value": 0,
+					"image": "https://www.torn.com/images/items/853/large.png"
+				},
+				"854": {
+					"name": "Questionnaire : Completed",
+					"market_value": 0,
+					"image": "https://www.torn.com/images/items/854/large.png"
+				},
+				"855": {
+					"name": "Agreement : Signed",
+					"market_value": 0,
+					"image": "https://www.torn.com/images/items/855/large.png"
+				},
+				"856": {
+					"name": "Spray Can : Black",
+					"market_value": 0,
+					"image": "https://www.torn.com/images/items/856/large.png"
+				},
+				"857": {
+					"name": "Spray Can : Red",
+					"market_value": 0,
+					"image": "https://www.torn.com/images/items/857/large.png"
+				},
+				"858": {
+					"name": "Spray Can : Pink",
+					"market_value": 0,
+					"image": "https://www.torn.com/images/items/858/large.png"
+				},
+				"859": {
+					"name": "Spray Can : Purple",
+					"market_value": 0,
+					"image": "https://www.torn.com/images/items/859/large.png"
+				},
+				"860": {
+					"name": "Spray Can : Blue",
+					"market_value": 0,
+					"image": "https://www.torn.com/images/items/860/large.png"
+				},
+				"861": {
+					"name": "Spray Can : Green",
+					"market_value": 0,
+					"image": "https://www.torn.com/images/items/861/large.png"
+				},
+				"862": {
+					"name": "Spray Can : Yellow",
+					"market_value": 0,
+					"image": "https://www.torn.com/images/items/862/large.png"
+				},
+				"863": {
+					"name": "Spray Can : Orange",
+					"market_value": 0,
+					"image": "https://www.torn.com/images/items/863/large.png"
+				},
+				"864": {
+					"name": "Salt Shaker",
+					"market_value": 300000,
+					"image": "https://www.torn.com/images/items/864/large.png"
+				},
+				"865": {
+					"name": "Poison Mistletoe",
+					"market_value": 12987570,
+					"image": "https://www.torn.com/images/items/865/large.png"
+				},
+				"866": {
+					"name": "Santa's List '17",
+					"market_value": 0,
+					"image": "https://www.torn.com/images/items/866/large.png"
+				},
+				"867": {
+					"name": "Soapbox",
+					"market_value": 0,
+					"image": "https://www.torn.com/images/items/867/large.png"
+				},
+				"868": {
+					"name": "Turkey Baster",
+					"market_value": 79979,
+					"image": "https://www.torn.com/images/items/868/large.png"
+				},
+				"869": {
+					"name": "Elon Musk Mask '17",
+					"market_value": 0,
+					"image": "https://www.torn.com/images/items/869/large.png"
+				},
+				"870": {
+					"name": "Love Juice",
+					"market_value": 16914208,
+					"image": "https://www.torn.com/images/items/870/large.png"
+				},
+				"871": {
+					"name": "Bug Swatter",
+					"market_value": 0,
+					"image": "https://www.torn.com/images/items/871/large.png"
+				},
+				"872": {
+					"name": "Nothing",
+					"market_value": 0,
+					"image": "https://www.torn.com/images/items/872/large.png"
+				},
+				"873": {
+					"name": "Bottle of Green Stout",
+					"market_value": 1000001,
+					"image": "https://www.torn.com/images/items/873/large.png"
+				},
+				"874": {
+					"name": "Prototype",
+					"market_value": 0,
+					"image": "https://www.torn.com/images/items/874/large.png"
+				},
+				"875": {
+					"name": "Rotten Apple",
+					"market_value": 0,
+					"image": "https://www.torn.com/images/items/875/large.png"
+				},
+				"876": {
+					"name": "Festering Chicken",
+					"market_value": 0,
+					"image": "https://www.torn.com/images/items/876/large.png"
+				},
+				"877": {
+					"name": "Mouldy Pizza",
+					"market_value": 0,
+					"image": "https://www.torn.com/images/items/877/large.png"
+				},
+				"878": {
+					"name": "Smelly Cheese",
+					"market_value": 0,
+					"image": "https://www.torn.com/images/items/878/large.png"
+				},
+				"879": {
+					"name": "Sour Milk",
+					"market_value": 0,
+					"image": "https://www.torn.com/images/items/879/large.png"
+				},
+				"880": {
+					"name": "Stale Bread",
+					"market_value": 0,
+					"image": "https://www.torn.com/images/items/880/large.png"
+				},
+				"881": {
+					"name": "Spoiled Fish",
+					"market_value": 0,
+					"image": "https://www.torn.com/images/items/881/large.png"
+				},
+				"882": {
+					"name": "Insurance Policy ",
+					"market_value": 0,
+					"image": "https://www.torn.com/images/items/882/large.png"
+				},
+				"883": {
+					"name": "Bank Statement",
+					"market_value": 0,
+					"image": "https://www.torn.com/images/items/883/large.png"
+				},
+				"884": {
+					"name": "Car Battery",
+					"market_value": 0,
+					"image": "https://www.torn.com/images/items/884/large.png"
+				},
+				"885": {
+					"name": "Scrap Metal",
+					"market_value": 0,
+					"image": "https://www.torn.com/images/items/885/large.png"
+				},
+				"886": {
+					"name": "Torn City Times",
+					"market_value": 0,
+					"image": "https://www.torn.com/images/items/886/large.png"
+				},
+				"887": {
+					"name": "Karma! Magazine",
+					"market_value": 0,
+					"image": "https://www.torn.com/images/items/887/large.png"
+				},
+				"888": {
+					"name": "Umbrella",
+					"market_value": 0,
+					"image": "https://www.torn.com/images/items/888/large.png"
+				},
+				"889": {
+					"name": "Travel Mug",
+					"market_value": 0,
+					"image": "https://www.torn.com/images/items/889/large.png"
+				},
+				"890": {
+					"name": "Headphones",
+					"market_value": 0,
+					"image": "https://www.torn.com/images/items/890/large.png"
+				},
+				"891": {
+					"name": "Undefined",
+					"market_value": 0,
+					"image": "https://www.torn.com/images/items/891/large.png"
+				},
+				"892": {
+					"name": "Mix CD",
+					"market_value": 0,
+					"image": "https://www.torn.com/images/items/892/large.png"
+				},
+				"893": {
+					"name": "Lost and Found Office Key",
+					"market_value": 0,
+					"image": "https://www.torn.com/images/items/893/large.png"
+				},
+				"894": {
+					"name": "Cosmetics Case",
+					"market_value": 0,
+					"image": "https://www.torn.com/images/items/894/large.png"
+				},
+				"895": {
+					"name": "Phone Card",
+					"market_value": 0,
+					"image": "https://www.torn.com/images/items/895/large.png"
+				},
+				"896": {
+					"name": "Subway Season Ticket",
+					"market_value": 0,
+					"image": "https://www.torn.com/images/items/896/large.png"
+				},
+				"897": {
+					"name": "Bottle Cap",
+					"market_value": 0,
+					"image": "https://www.torn.com/images/items/897/large.png"
+				},
+				"898": {
+					"name": "Silver Coin",
+					"market_value": 0,
+					"image": "https://www.torn.com/images/items/898/large.png"
+				},
+				"899": {
+					"name": "Silver Bead",
+					"market_value": 0,
+					"image": "https://www.torn.com/images/items/899/large.png"
+				},
+				"900": {
+					"name": "Lucky Quarter",
+					"market_value": 0,
+					"image": "https://www.torn.com/images/items/900/large.png"
+				},
+				"901": {
+					"name": "Daffodil",
+					"market_value": 0,
+					"image": "https://www.torn.com/images/items/901/large.png"
+				},
+				"902": {
+					"name": "Bunch of Carnations",
+					"market_value": 0,
+					"image": "https://www.torn.com/images/items/902/large.png"
+				},
+				"903": {
+					"name": "White Lily",
+					"market_value": 0,
+					"image": "https://www.torn.com/images/items/903/large.png"
+				},
+				"904": {
+					"name": "Funeral Wreath",
+					"market_value": 0,
+					"image": "https://www.torn.com/images/items/904/large.png"
+				},
+				"905": {
+					"name": "Car Keys",
+					"market_value": 0,
+					"image": "https://www.torn.com/images/items/905/large.png"
+				},
+				"906": {
+					"name": "Handkerchief",
+					"market_value": 0,
+					"image": "https://www.torn.com/images/items/906/large.png"
+				},
+				"907": {
+					"name": "Candle",
+					"market_value": 0,
+					"image": "https://www.torn.com/images/items/907/large.png"
+				},
+				"908": {
+					"name": "Paper Bag",
+					"market_value": 0,
+					"image": "https://www.torn.com/images/items/908/large.png"
+				},
+				"909": {
+					"name": "Tin Can",
+					"market_value": 0,
+					"image": "https://www.torn.com/images/items/909/large.png"
+				},
+				"910": {
+					"name": "Betting Slip",
+					"market_value": 0,
+					"image": "https://www.torn.com/images/items/910/large.png"
+				},
+				"911": {
+					"name": "Fidget Spinner",
+					"market_value": 0,
+					"image": "https://www.torn.com/images/items/911/large.png"
+				},
+				"912": {
+					"name": "Majestic Moose",
+					"market_value": 0,
+					"image": "https://www.torn.com/images/items/912/large.png"
+				},
+				"913": {
+					"name": "Lego Wonder Woman",
+					"market_value": 0,
+					"image": "https://www.torn.com/images/items/913/large.png"
+				},
+				"914": {
+					"name": "CR7 Doll",
+					"market_value": 0,
+					"image": "https://www.torn.com/images/items/914/large.png"
+				},
+				"915": {
+					"name": "Stretch Armstrong Doll",
+					"market_value": 0,
+					"image": "https://www.torn.com/images/items/915/large.png"
+				},
+				"916": {
+					"name": "Beef Femur",
+					"market_value": 0,
+					"image": "https://www.torn.com/images/items/916/large.png"
+				},
+				"917": {
+					"name": "Snake's Fang",
+					"market_value": 0,
+					"image": "https://www.torn.com/images/items/917/large.png"
+				},
+				"918": {
+					"name": "Icey Igloo",
+					"market_value": 0,
+					"image": "https://www.torn.com/images/items/918/large.png"
+				},
+				"919": {
+					"name": "Federal Jail Key",
+					"market_value": 0,
+					"image": "https://www.torn.com/images/items/919/large.png"
+				},
+				"920": {
+					"name": "Halloween Basket : Spooky",
+					"market_value": 0,
+					"image": "https://www.torn.com/images/items/920/large.png"
+				},
+				"921": {
+					"name": "Michael Myers Mask '18",
+					"market_value": 0,
+					"image": "https://www.torn.com/images/items/921/large.png"
+				},
+				"922": {
+					"name": "Toast Jesus '18",
+					"market_value": 0,
+					"image": "https://www.torn.com/images/items/922/large.png"
+				},
+				"923": {
+					"name": "Cheesus '18",
+					"market_value": 0,
+					"image": "https://www.torn.com/images/items/923/large.png"
+				},
+				"924": {
+					"name": "Bottle of Christmas Spirit",
+					"market_value": 999372,
+					"image": "https://www.torn.com/images/items/924/large.png"
+				},
+				"925": {
+					"name": "Scammer in the Slammer '18",
+					"market_value": 0,
+					"image": "https://www.torn.com/images/items/925/large.png"
+				},
+				"926": {
+					"name": "Gronch Mask '18",
+					"market_value": 694430150,
+					"image": "https://www.torn.com/images/items/926/large.png"
+				},
+				"927": {
+					"name": "Baseball Cap",
+					"market_value": 0,
+					"image": "https://www.torn.com/images/items/927/large.png"
+				},
+				"928": {
+					"name": "Bermudas",
+					"market_value": 3500001,
+					"image": "https://www.torn.com/images/items/928/large.png"
+				},
+				"929": {
+					"name": "Blouse",
+					"market_value": 3699987,
+					"image": "https://www.torn.com/images/items/929/large.png"
+				},
+				"930": {
+					"name": "Boob Tube",
+					"market_value": 6600000,
+					"image": "https://www.torn.com/images/items/930/large.png"
+				},
+				"931": {
+					"name": "Bush Hat",
+					"market_value": 0,
+					"image": "https://www.torn.com/images/items/931/large.png"
+				},
+				"932": {
+					"name": "Camisole",
+					"market_value": 3500000,
+					"image": "https://www.torn.com/images/items/932/large.png"
+				},
+				"933": {
+					"name": "Capri Pants",
+					"market_value": 0,
+					"image": "https://www.torn.com/images/items/933/large.png"
+				},
+				"934": {
+					"name": "Cardigan",
+					"market_value": 0,
+					"image": "https://www.torn.com/images/items/934/large.png"
+				},
+				"935": {
+					"name": "Cork Hat",
+					"market_value": 4000001,
+					"image": "https://www.torn.com/images/items/935/large.png"
+				},
+				"936": {
+					"name": "Crop Top",
+					"market_value": 7500000,
+					"image": "https://www.torn.com/images/items/936/large.png"
+				},
+				"937": {
+					"name": "Fisherman Hat",
+					"market_value": 17375000,
+					"image": "https://www.torn.com/images/items/937/large.png"
+				},
+				"938": {
+					"name": "Gym Shorts",
+					"market_value": 0,
+					"image": "https://www.torn.com/images/items/938/large.png"
+				},
+				"939": {
+					"name": "Halterneck",
+					"market_value": 2200150,
+					"image": "https://www.torn.com/images/items/939/large.png"
+				},
+				"940": {
+					"name": "Raincoat",
+					"market_value": 0,
+					"image": "https://www.torn.com/images/items/940/large.png"
+				},
+				"941": {
+					"name": "Pantyhose",
+					"market_value": 4275001,
+					"image": "https://www.torn.com/images/items/941/large.png"
+				},
+				"942": {
+					"name": "Pencil Skirt",
+					"market_value": 3500000,
+					"image": "https://www.torn.com/images/items/942/large.png"
+				},
+				"943": {
+					"name": "Peplum Top",
+					"market_value": 0,
+					"image": "https://www.torn.com/images/items/943/large.png"
+				},
+				"944": {
+					"name": "Polo Shirt",
+					"market_value": 0,
+					"image": "https://www.torn.com/images/items/944/large.png"
+				},
+				"945": {
+					"name": "Poncho",
+					"market_value": 11256323,
+					"image": "https://www.torn.com/images/items/945/large.png"
+				},
+				"946": {
+					"name": "Puffer Vest",
+					"market_value": 0,
+					"image": "https://www.torn.com/images/items/946/large.png"
+				},
+				"947": {
+					"name": "Mackintosh",
+					"market_value": 0,
+					"image": "https://www.torn.com/images/items/947/large.png"
+				},
+				"948": {
+					"name": "Shorts",
+					"market_value": 0,
+					"image": "https://www.torn.com/images/items/948/large.png"
+				},
+				"949": {
+					"name": "Skirt",
+					"market_value": 0,
+					"image": "https://www.torn.com/images/items/949/large.png"
+				},
+				"950": {
+					"name": "Travel Socks",
+					"market_value": 6500001,
+					"image": "https://www.torn.com/images/items/950/large.png"
+				},
+				"951": {
+					"name": "Turtleneck",
+					"market_value": 0,
+					"image": "https://www.torn.com/images/items/951/large.png"
+				},
+				"952": {
+					"name": "Yoga Pants",
+					"market_value": 8000000,
+					"image": "https://www.torn.com/images/items/952/large.png"
+				},
+				"953": {
+					"name": "Bronze Racing Trophy",
+					"market_value": 0,
+					"image": "https://www.torn.com/images/items/953/large.png"
+				},
+				"954": {
+					"name": "Silver Racing Trophy",
+					"market_value": 0,
+					"image": "https://www.torn.com/images/items/954/large.png"
+				},
+				"955": {
+					"name": "Gold Racing Trophy",
+					"market_value": 0,
+					"image": "https://www.torn.com/images/items/955/large.png"
+				},
+				"956": {
+					"name": "Pack of Blank CDs : 250",
+					"market_value": 0,
+					"image": "https://www.torn.com/images/items/956/large.png"
+				},
+				"957": {
+					"name": "Pack of Blank CDs : 50",
+					"market_value": 0,
+					"image": "https://www.torn.com/images/items/957/large.png"
+				},
+				"958": {
+					"name": "Chest Harness",
+					"market_value": 19666667,
+					"image": "https://www.torn.com/images/items/958/large.png"
+				},
+				"959": {
+					"name": "Choker",
+					"market_value": 0,
+					"image": "https://www.torn.com/images/items/959/large.png"
+				},
+				"960": {
+					"name": "Fishnet Stockings",
+					"market_value": 9000000,
+					"image": "https://www.torn.com/images/items/960/large.png"
+				},
+				"961": {
+					"name": "Knee-high Boots",
+					"market_value": 0,
+					"image": "https://www.torn.com/images/items/961/large.png"
+				},
+				"962": {
+					"name": "Lingerie",
+					"market_value": 0,
+					"image": "https://www.torn.com/images/items/962/large.png"
+				},
+				"963": {
+					"name": "Mankini",
+					"market_value": 0,
+					"image": "https://www.torn.com/images/items/963/large.png"
+				},
+				"964": {
+					"name": "Mini Skirt",
+					"market_value": 0,
+					"image": "https://www.torn.com/images/items/964/large.png"
+				},
+				"965": {
+					"name": "Nipple Tassels",
+					"market_value": 0,
+					"image": "https://www.torn.com/images/items/965/large.png"
+				},
+				"966": {
+					"name": "Bowler Hat",
+					"market_value": 9000000,
+					"image": "https://www.torn.com/images/items/966/large.png"
+				},
+				"967": {
+					"name": "Fitted Shirt",
+					"market_value": 0,
+					"image": "https://www.torn.com/images/items/967/large.png"
+				},
+				"968": {
+					"name": "Bow Tie",
+					"market_value": 0,
+					"image": "https://www.torn.com/images/items/968/large.png"
+				},
+				"969": {
+					"name": "Neck Tie",
+					"market_value": 21500000,
+					"image": "https://www.torn.com/images/items/969/large.png"
+				},
+				"970": {
+					"name": "Waistcoat",
+					"market_value": 0,
+					"image": "https://www.torn.com/images/items/970/large.png"
+				},
+				"971": {
+					"name": "Blazer",
+					"market_value": 0,
+					"image": "https://www.torn.com/images/items/971/large.png"
+				},
+				"972": {
+					"name": "Suit Trousers",
+					"market_value": 0,
+					"image": "https://www.torn.com/images/items/972/large.png"
+				},
+				"973": {
+					"name": "Derby Shoes",
+					"market_value": 4800001,
+					"image": "https://www.torn.com/images/items/973/large.png"
+				},
+				"974": {
+					"name": "Smoking Jacket",
+					"market_value": 0,
+					"image": "https://www.torn.com/images/items/974/large.png"
+				},
+				"975": {
+					"name": "Monocle",
+					"market_value": 0,
+					"image": "https://www.torn.com/images/items/975/large.png"
+				},
+				"976": {
+					"name": "Bronze Microphone",
+					"market_value": 0,
+					"image": "https://www.torn.com/images/items/976/large.png"
+				},
+				"977": {
+					"name": "Silver Microphone",
+					"market_value": 0,
+					"image": "https://www.torn.com/images/items/977/large.png"
+				},
+				"978": {
+					"name": "Gold Microphone",
+					"market_value": 0,
+					"image": "https://www.torn.com/images/items/978/large.png"
+				},
+				"979": {
+					"name": "Paint Mask",
+					"market_value": 0,
+					"image": "https://www.torn.com/images/items/979/large.png"
+				},
+				"980": {
+					"name": "Ladder",
+					"market_value": 0,
+					"image": "https://www.torn.com/images/items/980/large.png"
+				},
+				"981": {
+					"name": "Wire Cutters",
+					"market_value": 0,
+					"image": "https://www.torn.com/images/items/981/large.png"
+				},
+				"982": {
+					"name": "Ripped Jeans",
+					"market_value": 0,
+					"image": "https://www.torn.com/images/items/982/large.png"
+				},
+				"983": {
+					"name": "Bandit Mask",
+					"market_value": 0,
+					"image": "https://www.torn.com/images/items/983/large.png"
+				},
+				"984": {
+					"name": "Bottle of Moonshine",
+					"market_value": 1007236,
+					"image": "https://www.torn.com/images/items/984/large.png"
+				},
+				"985": {
+					"name": "Can of Goose Juice",
+					"market_value": 300638,
+					"image": "https://www.torn.com/images/items/985/large.png"
+				},
+				"986": {
+					"name": "Can of Damp Valley",
+					"market_value": 506210,
+					"image": "https://www.torn.com/images/items/986/large.png"
+				},
+				"987": {
+					"name": "Can of Crocozade",
+					"market_value": 801092,
+					"image": "https://www.torn.com/images/items/987/large.png"
+				},
+				"988": {
+					"name": "Fur Coat",
+					"market_value": 0,
+					"image": "https://www.torn.com/images/items/988/large.png"
+				},
+				"989": {
+					"name": "Fur Scarf",
+					"market_value": 19000000,
+					"image": "https://www.torn.com/images/items/989/large.png"
+				},
+				"990": {
+					"name": "Fur Hat",
+					"market_value": 0,
+					"image": "https://www.torn.com/images/items/990/large.png"
+				},
+				"991": {
+					"name": "Platform Shoes",
+					"market_value": 0,
+					"image": "https://www.torn.com/images/items/991/large.png"
+				},
+				"992": {
+					"name": "Silver Flats",
+					"market_value": 0,
+					"image": "https://www.torn.com/images/items/992/large.png"
+				},
+				"993": {
+					"name": "Crystal Bracelet",
+					"market_value": 0,
+					"image": "https://www.torn.com/images/items/993/large.png"
+				},
+				"994": {
+					"name": "Cocktail Ring",
+					"market_value": 40000000,
+					"image": "https://www.torn.com/images/items/994/large.png"
+				},
+				"995": {
+					"name": "Sun Hat",
+					"market_value": 9000001,
+					"image": "https://www.torn.com/images/items/995/large.png"
+				},
+				"996": {
+					"name": "Square Sunglasses",
+					"market_value": 0,
+					"image": "https://www.torn.com/images/items/996/large.png"
+				},
+				"997": {
+					"name": "Statement Necklace",
+					"market_value": 0,
+					"image": "https://www.torn.com/images/items/997/large.png"
+				},
+				"998": {
+					"name": "Floral Dress",
+					"market_value": 0,
+					"image": "https://www.torn.com/images/items/998/large.png"
+				},
+				"1001": {
+					"name": "Shrug",
+					"market_value": 0,
+					"image": "https://www.torn.com/images/items/1001/large.png"
+				},
+				"1002": {
+					"name": "Eye Patch",
+					"market_value": 0,
+					"image": "https://www.torn.com/images/items/1002/large.png"
+				},
+				"1003": {
+					"name": "Halloween Basket : Creepy",
+					"market_value": 0,
+					"image": "https://www.torn.com/images/items/1003/large.png"
+				},
+				"1004": {
+					"name": "Halloween Basket : Freaky",
+					"market_value": 0,
+					"image": "https://www.torn.com/images/items/1004/large.png"
+				},
+				"1005": {
+					"name": "Halloween Basket : Frightful",
+					"market_value": 0,
+					"image": "https://www.torn.com/images/items/1005/large.png"
+				},
+				"1006": {
+					"name": "Halloween Basket : Haunting",
+					"market_value": 0,
+					"image": "https://www.torn.com/images/items/1006/large.png"
+				},
+				"1007": {
+					"name": "Halloween Basket : Shocking",
+					"market_value": 0,
+					"image": "https://www.torn.com/images/items/1007/large.png"
+				},
+				"1008": {
+					"name": "Halloween Basket : Terrifying",
+					"market_value": 0,
+					"image": "https://www.torn.com/images/items/1008/large.png"
+				},
+				"1009": {
+					"name": "Halloween Basket : Horrifying",
+					"market_value": 0,
+					"image": "https://www.torn.com/images/items/1009/large.png"
+				},
+				"1010": {
+					"name": "Halloween Basket : Petrifying",
+					"market_value": 0,
+					"image": "https://www.torn.com/images/items/1010/large.png"
+				},
+				"1011": {
+					"name": "Halloween Basket : Nightmarish",
+					"market_value": 0,
+					"image": "https://www.torn.com/images/items/1011/large.png"
+				},
+				"1012": {
+					"name": "Blood Bag : Irradiated",
+					"market_value": 29485,
+					"image": "https://www.torn.com/images/items/1012/large.png"
+				},
+				"1013": {
+					"name": "Jigsaw Mask '19",
+					"market_value": 0,
+					"image": "https://www.torn.com/images/items/1013/large.png"
+				},
+				"1014": {
+					"name": "Reading Glasses",
+					"market_value": 0,
+					"image": "https://www.torn.com/images/items/1014/large.png"
+				},
+				"1015": {
+					"name": "Chinos",
+					"market_value": 0,
+					"image": "https://www.torn.com/images/items/1015/large.png"
+				},
+				"1016": {
+					"name": "Collared Shawl",
+					"market_value": 0,
+					"image": "https://www.torn.com/images/items/1016/large.png"
+				},
+				"1017": {
+					"name": "Pleated Skirt",
+					"market_value": 7940000,
+					"image": "https://www.torn.com/images/items/1017/large.png"
+				},
+				"1018": {
+					"name": "Flip Flops",
+					"market_value": 65000000,
+					"image": "https://www.torn.com/images/items/1018/large.png"
+				},
+				"1019": {
+					"name": "Bingo Visor",
+					"market_value": 75555556,
+					"image": "https://www.torn.com/images/items/1019/large.png"
+				},
+				"1020": {
+					"market_value": 38000000,
+					"image": "https://www.torn.com/images/items/1020/large.png"
+				},
+				"1021": {
+					"name": "Sandals",
+					"market_value": 7719253,
+					"image": "https://www.torn.com/images/items/1021/large.png"
+				},
+				"1022": {
+					"name": "Golf Socks",
+					"market_value": 8000000,
+					"image": "https://www.torn.com/images/items/1022/large.png"
+				},
+				"1023": {
+					"name": "Flat Cap",
+					"market_value": 0,
+					"image": "https://www.torn.com/images/items/1023/large.png"
+				},
+				"1024": {
+					"name": "Slippers",
+					"market_value": 0,
+					"image": "https://www.torn.com/images/items/1024/large.png"
+				},
+				"1025": {
+					"name": "Bathrobe",
+					"market_value": 0,
+					"image": "https://www.torn.com/images/items/1025/large.png"
+				},
+				"1026": {
+					"name": "Party Hat '19",
+					"market_value": 469998,
+					"image": "https://www.torn.com/images/items/1026/large.png"
+				},
+				"1027": {
+					"name": "Badge : 15th Anniversary",
+					"market_value": 250000,
+					"image": "https://www.torn.com/images/items/1027/large.png"
+				},
+				"1028": {
+					"name": "Birthday Cupcake",
+					"market_value": 1634000,
+					"image": "https://www.torn.com/images/items/1028/large.png"
+				},
+				"1029": {
+					"name": "Strippogram Voucher",
+					"market_value": 13601659,
+					"image": "https://www.torn.com/images/items/1029/large.png"
+				},
+				"1030": {
+					"name": "Dong : Thomas",
+					"market_value": 0,
+					"image": "https://www.torn.com/images/items/1030/large.png"
+				},
+				"1031": {
+					"name": "Dong : Greg",
+					"market_value": 1100000,
+					"image": "https://www.torn.com/images/items/1031/large.png"
+				},
+				"1032": {
+					"name": "Dong : Effy",
+					"market_value": 2225001,
+					"image": "https://www.torn.com/images/items/1032/large.png"
+				},
+				"1033": {
+					"name": "Dong : Holly",
+					"market_value": 2580000,
+					"image": "https://www.torn.com/images/items/1033/large.png"
+				},
+				"1034": {
+					"name": "Dong : Jeremy",
+					"market_value": 2000000,
+					"image": "https://www.torn.com/images/items/1034/large.png"
+				},
+				"1035": {
+					"name": "Anniversary Present",
+					"market_value": 41500000,
+					"image": "https://www.torn.com/images/items/1035/large.png"
+				},
+				"1036": {
+					"name": "Greta Mask '19",
+					"market_value": 0,
+					"image": "https://www.torn.com/images/items/1036/large.png"
+				},
+				"1037": {
+					"name": "Anatoly Mask '19",
+					"market_value": 0,
+					"image": "https://www.torn.com/images/items/1037/large.png"
+				},
+				"1038": {
+					"name": "Santa Beard",
+					"market_value": 14500000,
+					"image": "https://www.torn.com/images/items/1038/large.png"
+				},
+				"1039": {
+					"name": "Bag of Humbugs",
+					"market_value": 295050,
+					"image": "https://www.torn.com/images/items/1039/large.png"
+				},
+				"1040": {
+					"name": "Christmas Cracker",
+					"market_value": 1132788,
+					"image": "https://www.torn.com/images/items/1040/large.png"
+				},
+				"1041": {
+					"name": "Special Snowflake",
+					"market_value": 0,
+					"image": "https://www.torn.com/images/items/1041/large.png"
+				},
+				"1042": {
+					"name": "Concussion Grenade",
+					"market_value": 6740000,
+					"image": "https://www.torn.com/images/items/1042/large.png"
+				},
+				"1043": {
+					"name": "Paper Crown : Green",
+					"market_value": 745498,
+					"image": "https://www.torn.com/images/items/1043/large.png"
+				},
+				"1044": {
+					"name": "Paper Crown : Yellow",
+					"market_value": 803317,
+					"image": "https://www.torn.com/images/items/1044/large.png"
+				},
+				"1045": {
+					"name": "Paper Crown : Red",
+					"market_value": 850001,
+					"image": "https://www.torn.com/images/items/1045/large.png"
+				},
+				"1046": {
+					"name": "Paper Crown : Blue",
+					"market_value": 784303,
+					"image": "https://www.torn.com/images/items/1046/large.png"
+				},
+				"1047": {
+					"name": "Denim Shirt",
+					"market_value": 11223395,
+					"image": "https://www.torn.com/images/items/1047/large.png"
+				},
+				"1048": {
+					"name": "Denim Vest",
+					"market_value": 0,
+					"image": "https://www.torn.com/images/items/1048/large.png"
+				},
+				"1049": {
+					"name": "Denim Jacket",
+					"market_value": 5300001,
+					"image": "https://www.torn.com/images/items/1049/large.png"
+				},
+				"1050": {
+					"name": "Denim Jeans",
+					"market_value": 0,
+					"image": "https://www.torn.com/images/items/1050/large.png"
+				},
+				"1051": {
+					"name": "Denim Shoes",
+					"market_value": 0,
+					"image": "https://www.torn.com/images/items/1051/large.png"
+				},
+				"1052": {
+					"name": "Denim Cap",
+					"market_value": 0,
+					"image": "https://www.torn.com/images/items/1052/large.png"
+				},
+				"1053": {
+					"name": "Bread Knife",
+					"market_value": 0,
+					"image": "https://www.torn.com/images/items/1053/large.png"
+				},
+				"1054": {
+					"name": "Semtex",
+					"market_value": 0,
+					"image": "https://www.torn.com/images/items/1054/large.png"
+				},
+				"1055": {
+					"name": "Poison Umbrella",
+					"market_value": 0,
+					"image": "https://www.torn.com/images/items/1055/large.png"
+				},
+				"1056": {
+					"name": "Millwall Brick",
+					"market_value": 0,
+					"image": "https://www.torn.com/images/items/1056/large.png"
+				},
+				"1057": {
+					"name": "Gentleman Cache",
+					"market_value": 35541134,
+					"image": "https://www.torn.com/images/items/1057/large.png"
+				},
+				"1058": {
+					"name": "Gold Chain",
+					"market_value": 242225815,
+					"image": "https://www.torn.com/images/items/1058/large.png"
+				},
+				"1059": {
+					"name": "Snapback Hat",
+					"market_value": 9500000,
+					"image": "https://www.torn.com/images/items/1059/large.png"
+				},
+				"1060": {
+					"name": "Saggy Pants",
+					"market_value": 0,
+					"image": "https://www.torn.com/images/items/1060/large.png"
+				},
+				"1061": {
+					"name": "Oversized Shirt",
+					"market_value": 11500000,
+					"image": "https://www.torn.com/images/items/1061/large.png"
+				},
+				"1062": {
+					"name": "Basketball Shirt",
+					"market_value": 5947992,
+					"image": "https://www.torn.com/images/items/1062/large.png"
+				},
+				"1063": {
+					"name": "Parachute Pants",
+					"market_value": 0,
+					"image": "https://www.torn.com/images/items/1063/large.png"
+				},
+				"1064": {
+					"name": "Tube Dress",
+					"market_value": 11000001,
+					"image": "https://www.torn.com/images/items/1064/large.png"
+				},
+				"1065": {
+					"name": "Gold Sneakers",
+					"market_value": 0,
+					"image": "https://www.torn.com/images/items/1065/large.png"
+				},
+				"1066": {
+					"name": "Shutter Shades",
+					"market_value": 22500001,
+					"image": "https://www.torn.com/images/items/1066/large.png"
+				},
+				"1067": {
+					"name": "Silver Hoodie",
+					"market_value": 0,
+					"image": "https://www.torn.com/images/items/1067/large.png"
+				},
+				"1068": {
+					"name": "Bucket Hat",
+					"market_value": 9750000,
+					"image": "https://www.torn.com/images/items/1068/large.png"
+				},
+				"1069": {
+					"name": "Puffer Jacket",
+					"market_value": 0,
+					"image": "https://www.torn.com/images/items/1069/large.png"
+				},
+				"1070": {
+					"name": "Durag",
+					"market_value": 8000000,
+					"image": "https://www.torn.com/images/items/1070/large.png"
+				},
+				"1071": {
+					"name": "Onesie",
+					"market_value": 0,
+					"image": "https://www.torn.com/images/items/1071/large.png"
+				},
+				"1072": {
+					"name": "Baseball Jacket",
+					"market_value": 7790752,
+					"image": "https://www.torn.com/images/items/1072/large.png"
+				},
+				"1073": {
+					"name": "Braces",
+					"market_value": 25000003,
+					"image": "https://www.torn.com/images/items/1073/large.png"
+				},
+				"1074": {
+					"name": "Panama Hat",
+					"market_value": 7000000,
+					"image": "https://www.torn.com/images/items/1074/large.png"
+				},
+				"1075": {
+					"name": "Pipe",
+					"market_value": 0,
+					"image": "https://www.torn.com/images/items/1075/large.png"
+				},
+				"1076": {
+					"name": "Shoulder Sweater",
+					"market_value": 0,
+					"image": "https://www.torn.com/images/items/1076/large.png"
+				},
+				"1077": {
+					"name": "Sports Jacket",
+					"market_value": 0,
+					"image": "https://www.torn.com/images/items/1077/large.png"
+				},
+				"1078": {
+					"name": "Old Wallet",
+					"market_value": 0,
+					"image": "https://www.torn.com/images/items/1078/large.png"
+				},
+				"1079": {
+					"name": "Cardholder",
+					"market_value": 0,
+					"image": "https://www.torn.com/images/items/1079/large.png"
+				},
+				"1080": {
+					"name": "Billfold",
+					"market_value": 0,
+					"image": "https://www.torn.com/images/items/1080/large.png"
+				},
+				"1081": {
+					"name": "Coin Purse",
+					"market_value": 0,
+					"image": "https://www.torn.com/images/items/1081/large.png"
+				},
+				"1082": {
+					"name": "Zip Wallet",
+					"market_value": 0,
+					"image": "https://www.torn.com/images/items/1082/large.png"
+				},
+				"1083": {
+					"name": "Clutch",
+					"market_value": 0,
+					"image": "https://www.torn.com/images/items/1083/large.png"
+				},
+				"1084": {
+					"name": "Credit Card",
+					"market_value": 0,
+					"image": "https://www.torn.com/images/items/1084/large.png"
+				},
+				"1085": {
+					"name": "Lipstick",
+					"market_value": 0,
+					"image": "https://www.torn.com/images/items/1085/large.png"
+				},
+				"1086": {
+					"name": "License",
+					"market_value": 0,
+					"image": "https://www.torn.com/images/items/1086/large.png"
+				},
+				"1087": {
+					"name": "Tampon",
+					"market_value": 0,
+					"image": "https://www.torn.com/images/items/1087/large.png"
+				},
+				"1088": {
+					"name": "Receipt",
+					"market_value": 0,
+					"image": "https://www.torn.com/images/items/1088/large.png"
+				},
+				"1089": {
+					"name": "Family Photo",
+					"market_value": 0,
+					"image": "https://www.torn.com/images/items/1089/large.png"
+				},
+				"1090": {
+					"name": "Lint",
+					"market_value": 0,
+					"image": "https://www.torn.com/images/items/1090/large.png"
+				},
+				"1091": {
+					"name": "Handcuffs",
+					"market_value": 0,
+					"image": "https://www.torn.com/images/items/1091/large.png"
+				},
+				"1092": {
+					"name": "Lubricant",
+					"market_value": 0,
+					"image": "https://www.torn.com/images/items/1092/large.png"
+				},
+				"1093": {
+					"name": "Hit Contract",
+					"market_value": 0,
+					"image": "https://www.torn.com/images/items/1093/large.png"
+				},
+				"1094": {
+					"name": "Syringe",
+					"market_value": 0,
+					"image": "https://www.torn.com/images/items/1094/large.png"
+				},
+				"1095": {
+					"name": "Spoon",
+					"market_value": 0,
+					"image": "https://www.torn.com/images/items/1095/large.png"
+				},
+				"1096": {
+					"name": "Cell Phone",
+					"market_value": 0,
+					"image": "https://www.torn.com/images/items/1096/large.png"
+				},
+				"1097": {
+					"name": "Assless Chaps",
+					"market_value": 0,
+					"image": "https://www.torn.com/images/items/1097/large.png"
+				},
+				"1098": {
+					"name": "Opera Gloves",
+					"market_value": 0,
+					"image": "https://www.torn.com/images/items/1098/large.png"
+				},
+				"1099": {
+					"name": "Booty Shorts",
+					"market_value": 29000000,
+					"image": "https://www.torn.com/images/items/1099/large.png"
+				},
+				"1100": {
+					"name": "Collar",
+					"market_value": 0,
+					"image": "https://www.torn.com/images/items/1100/large.png"
+				},
+				"1101": {
+					"name": "Ball Gag",
+					"market_value": 0,
+					"image": "https://www.torn.com/images/items/1101/large.png"
+				},
+				"1102": {
+					"name": "Blindfold",
+					"market_value": 0,
+					"image": "https://www.torn.com/images/items/1102/large.png"
+				},
+				"1103": {
+					"name": "Maid Uniform",
+					"market_value": 0,
+					"image": "https://www.torn.com/images/items/1103/large.png"
+				},
+				"1104": {
+					"name": "Maid Hat",
+					"market_value": 0,
+					"image": "https://www.torn.com/images/items/1104/large.png"
+				},
+				"1105": {
+					"name": "Ball Gown",
+					"market_value": 0,
+					"image": "https://www.torn.com/images/items/1105/large.png"
+				},
+				"1106": {
+					"name": "Fascinator Hat",
+					"market_value": 0,
+					"image": "https://www.torn.com/images/items/1106/large.png"
+				},
+				"1107": {
+					"name": "Wedding Dress",
+					"market_value": 0,
+					"image": "https://www.torn.com/images/items/1107/large.png"
+				},
+				"1108": {
+					"name": "Wedding Veil",
+					"market_value": 0,
+					"image": "https://www.torn.com/images/items/1108/large.png"
+				},
+				"1109": {
+					"name": "Head Scarf",
+					"market_value": 0,
+					"image": "https://www.torn.com/images/items/1109/large.png"
+				},
+				"1110": {
+					"name": "Nightgown",
+					"market_value": 0,
+					"image": "https://www.torn.com/images/items/1110/large.png"
+				},
+				"1111": {
+					"name": "Pullover",
+					"market_value": 6000000,
+					"image": "https://www.torn.com/images/items/1111/large.png"
+				},
+				"1112": {
+					"name": "Elegant Cache",
+					"market_value": 54292200,
+					"image": "https://www.torn.com/images/items/1112/large.png"
+				},
+				"1113": {
+					"name": "Naughty Cache",
+					"market_value": 0,
+					"image": "https://www.torn.com/images/items/1113/large.png"
+				},
+				"1114": {
+					"name": "Elderly Cache",
+					"market_value": 25050001,
+					"image": "https://www.torn.com/images/items/1114/large.png"
+				},
+				"1115": {
+					"name": "Denim Cache",
+					"market_value": 12538889,
+					"image": "https://www.torn.com/images/items/1115/large.png"
+				},
+				"1116": {
+					"name": "Wannabe Cache",
+					"market_value": 0,
+					"image": "https://www.torn.com/images/items/1116/large.png"
+				},
+				"1117": {
+					"name": "Cutesy Cache",
+					"market_value": 51088889,
+					"image": "https://www.torn.com/images/items/1117/large.png"
+				},
+				"1118": {
+					"name": "Armor Cache",
+					"market_value": 0,
+					"image": "https://www.torn.com/images/items/1118/large.png"
+				},
+				"1119": {
+					"name": "Melee Cache",
+					"market_value": 0,
+					"image": "https://www.torn.com/images/items/1119/large.png"
+				},
+				"1120": {
+					"name": "Small Arms Cache",
+					"market_value": 0,
+					"image": "https://www.torn.com/images/items/1120/large.png"
+				},
+				"1121": {
+					"name": "Medium Arms Cache",
+					"market_value": 0,
+					"image": "https://www.torn.com/images/items/1121/large.png"
+				},
+				"1122": {
+					"name": "Heavy Arms Cache",
+					"market_value": 0,
+					"image": "https://www.torn.com/images/items/1122/large.png"
+				},
+				"1123": {
+					"name": "Spy Camera",
+					"market_value": 0,
+					"image": "https://www.torn.com/images/items/1123/large.png"
+				},
+				"1124": {
+					"name": "Cloning Device",
+					"market_value": 0,
+					"image": "https://www.torn.com/images/items/1124/large.png"
+				},
+				"1125": {
+					"name": "Card Skimmer",
+					"market_value": 0,
+					"image": "https://www.torn.com/images/items/1125/large.png"
+				},
+				"1126": {
+					"name": "Tutu",
+					"market_value": 30000000,
+					"image": "https://www.torn.com/images/items/1126/large.png"
+				},
+				"1127": {
+					"name": "Knee Socks",
+					"market_value": 6079600,
+					"image": "https://www.torn.com/images/items/1127/large.png"
+				},
+				"1128": {
+					"name": "Kitty Shoes",
+					"market_value": 0,
+					"image": "https://www.torn.com/images/items/1128/large.png"
+				},
+				"1129": {
+					"name": "Cat Ears",
+					"market_value": 0,
+					"image": "https://www.torn.com/images/items/1129/large.png"
+				},
+				"1130": {
+					"name": "Bunny Ears",
+					"market_value": 0,
+					"image": "https://www.torn.com/images/items/1130/large.png"
+				},
+				"1131": {
+					"name": "Puppy Ears",
+					"market_value": 0,
+					"image": "https://www.torn.com/images/items/1131/large.png"
+				},
+				"1132": {
+					"name": "Heart Sunglasses",
+					"market_value": 0,
+					"image": "https://www.torn.com/images/items/1132/large.png"
+				},
+				"1133": {
+					"name": "Hair Bow",
+					"market_value": 11110002,
+					"image": "https://www.torn.com/images/items/1133/large.png"
+				},
+				"1134": {
+					"name": "Lolita Dress",
+					"market_value": 0,
+					"image": "https://www.torn.com/images/items/1134/large.png"
+				},
+				"1135": {
+					"name": "Unicorn Horn",
+					"market_value": 394000000,
+					"image": "https://www.torn.com/images/items/1135/large.png"
+				},
+				"1136": {
+					"name": "Check Skirt",
+					"market_value": 0,
+					"image": "https://www.torn.com/images/items/1136/large.png"
+				},
+				"1137": {
+					"name": "Polka Dot Dress",
+					"market_value": 151000001,
+					"image": "https://www.torn.com/images/items/1137/large.png"
+				},
+				"1138": {
+					"name": "Ballet Shoes",
+					"market_value": 15000001,
+					"image": "https://www.torn.com/images/items/1138/large.png"
+				},
+				"1139": {
+					"name": "Dungarees",
+					"market_value": 8000000,
+					"image": "https://www.torn.com/images/items/1139/large.png"
+				},
+				"1140": {
+					"name": "Tights",
+					"market_value": 0,
+					"image": "https://www.torn.com/images/items/1140/large.png"
+				},
+				"1141": {
+					"name": "Pennywise Mask '20",
+					"market_value": 0,
+					"image": "https://www.torn.com/images/items/1141/large.png"
+				},
+				"1142": {
+					"name": "Tiger King Mask '20",
+					"market_value": 145675285,
+					"image": "https://www.torn.com/images/items/1142/large.png"
+				},
+				"1143": {
+					"name": "Medical Mask",
+					"market_value": 8358311,
+					"image": "https://www.torn.com/images/items/1143/large.png"
+				},
+				"1144": {
+					"name": "Chin Diaper",
+					"market_value": 3261899,
+					"image": "https://www.torn.com/images/items/1144/large.png"
+				},
+				"1145": {
+					"name": "Tighty Whities",
+					"market_value": 4205001,
+					"image": "https://www.torn.com/images/items/1145/large.png"
+				},
+				"1146": {
+					"name": "Tangerine",
+					"market_value": 3449293,
+					"image": "https://www.torn.com/images/items/1146/large.png"
+				},
+				"1147": {
+					"name": "Helmet of Justice",
+					"market_value": 0,
+					"image": "https://www.torn.com/images/items/1147/large.png"
+				},
+				"1148": {
+					"name": "Broken Bauble",
+					"market_value": 38784445,
+					"image": "https://www.torn.com/images/items/1148/large.png"
+				}
+		}
+}
