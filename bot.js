@@ -67,24 +67,41 @@ client.on('message', async message => {
         let currentStocks = stocks.getStocks(args);
         currentStocks.then(result => {
             if(result[0] != "not-found"){
-                const embedResult = new Discord.MessageEmbed()
-                .setColor('#ff00ff')
-                .setDescription(`Information accurate as of latest stock update at ${result[9]}.`)
-                .setTitle(`Stock information for Stock ID: ${result[1]}`)
-                .setURL("https://www.torn.com/stockexchange.php")
-                .setThumbnail(`https://www.torn.com/images/v2/stock/logos/${result[1]}_logo.png?v=1528808940574`)
-                .addFields(
-                    {name: 'Stock Name', value: `${result[0]} (${result[1]})`},
-                    {name: 'Director', value: result[2]},
-                    {name: 'Available Stock', value: result[4]},
-                    {name: 'Current Price', value: `$${result[3]}`, inline: true},
-                    {name: 'Change from Last Update', value: result[11], inline: true},
-                    {name: '-----------------', value: '----------------'},
-                    {name: 'Forecast', value: result[5], inline: true},
-                    {name: 'Demand', value: result[6], inline: true},
-                    {name: `${result[7]} Shares Needed for Benefit`, value: `${result[8]}.`}
-                )
-                message.channel.send(embedResult);
+                if(result[0] != 0){
+                    const embedResult = new Discord.MessageEmbed()
+                    .setColor('#ff00ff')
+                    .setDescription(`Information accurate as of latest stock update at ${result[10]}.`)
+                    .setTitle(`Stock information for Stock ID: ${result[2]}`)
+                    .setURL("https://www.torn.com/stockexchange.php")
+                    .setThumbnail(`https://www.torn.com/images/v2/stock/logos/${result[2]}_logo.png?v=1528808940574`)
+                    .addFields(
+                        {name: 'Stock Name', value: `${result[1]} (${result[2]})`},
+                        {name: 'Director', value: result[3]},
+                        {name: 'Available Stock', value: result[5]},
+                        {name: 'Current Price', value: `$${result[4]}`, inline: true},
+                        {name: 'Change from Last Update', value: result[12], inline: true},
+                        {name: '-----------------', value: '----------------'},
+                        {name: 'Forecast', value: result[6], inline: true},
+                        {name: 'Demand', value: result[7], inline: true},
+                        {name: `${result[8]} Shares Needed for Benefit`, value: `${result[9]}.`}
+                    )
+                    message.channel.send(embedResult);
+                } else {
+                    const embedResult = new Discord.MessageEmbed()
+                    .setColor('#ff00ff')
+                    .setDescription(`Information accurate as of latest stock update.`)
+                    .setTitle(`Stock information for Stock ID: ${result[2]}`)
+                    .setURL("https://www.torn.com/stockexchange.php")
+                    .setThumbnail(`https://www.torn.com/images/v2/stock/logos/${result[2]}_logo.png?v=1528808940574`)
+                    .addFields(
+                        {name: 'Stock Name', value: `${result[1]} (${result[2]})`},
+                        {name: 'Available Stock', value: result[5]},
+                        {name: 'Current Price', value: `$${result[4]}`, inline: true},
+                        {name: 'Forecast', value: result[6], inline: true},
+                        {name: 'Demand', value: result[7], inline: true},
+                    )
+                    message.channel.send(embedResult);
+                }
             } else {
                 message.channel.send("I could not find that stock ID. Please check you've entered it correctly or type $stockslist and I'll send you a PM with a list of them.")
             }
@@ -99,7 +116,7 @@ client.on('message', async message => {
                 message.channel.send("No results found. Please check you've entered your search correctly.")
             } else {
                 const embedResult = new Discord.MessageEmbed()
-                .setColor('#aa00ff')
+                .setColor('#ff0000')
                 .setTitle(`Market Information for ${result[0]}`)
                 .setURL(`https://www.torn.com/imarket.php#/p=shop&step=shop&type=&searchname=${result[3]}`)
                 .setThumbnail(`${result[2]}`)

@@ -15,7 +15,7 @@ async function searchMarket(item){
     //const searchQuery = itemStr.charAt(0).toUpperCase() + itemStr.slice(1);
 
     //dirty code to clean the search query up and capitalise the first letter of each word.
-    console.log(searchQuery);
+    console.log(`ITEM MARKET SEARCH: ${searchQuery}`);
     let itemExport = [];
     let itemID;
     const maxSize = Object.keys(itemList.items).length + 3;
