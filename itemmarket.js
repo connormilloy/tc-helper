@@ -18,7 +18,6 @@ async function searchMarket(item){
     //const searchQuery = itemStr.charAt(0).toUpperCase() + itemStr.slice(1);
 
     //dirty code to clean the search query up and capitalise the first letter of each word.
-    console.log(`!!! ITEM MARKET SEARCH: ${searchQuery} !!!`);
     let itemExport = [];
     let itemID;
     const maxSize = Object.keys(itemList.items).length + 3;
@@ -53,6 +52,7 @@ async function searchMarket(item){
                 itemExport.push(jsonResponse.items[itemID].image);
                 itemExport.push(itemID);
                 itemExport.push(jsonResponse.items[itemID].description);
+                console.log(`!!! ITEM MARKET SEARCH: ${searchQuery} (${jsonResponse.items[itemID].name})!!!`);
             } else {
                 itemExport.push("n/a");
             }
