@@ -89,6 +89,7 @@ client.on('message', async message => {
                     {name: 'Status:', value: result[4]}
                 )
                 message.channel.send(embedResult);
+                console.log(`!!! SERVER ID: ${message.guild.id} !!!`);
             } else {
                 message.channel.send(`User ID [${args}] does not exist. Are you sure you entered it correctly?`)
             }
@@ -118,6 +119,7 @@ client.on('message', async message => {
                         {name: `Benefit Block (${result[8]} Shares)`, value: `${result[9]}.`}
                     )
                     message.channel.send(embedResult);
+                    console.log(`!!! SERVER ID: ${message.guild.id} !!!`);
                 } else {
                     const embedResult = new Discord.MessageEmbed()
                     .setColor('#ff00ff')
@@ -133,6 +135,7 @@ client.on('message', async message => {
                         {name: 'Demand', value: result[7], inline: true},
                     )
                     message.channel.send(embedResult);
+                    console.log(`!!! SERVER ID: ${message.guild.id} !!!`);
                 }
             } else {
                 message.channel.send("I couldn't find that stock ID. Please check you've entered it correctly or type $stockslist and I'll send you a PM with a list of them.")
@@ -156,6 +159,7 @@ client.on('message', async message => {
                 .addField('Current Market Value', `${result[1]}`)
                 .setFooter(`${result[4]}`, `${result[2]}`)
                 message.channel.send(embedResult);
+                console.log(`!!! SERVER ID: ${message.guild.id} !!!`)
             }
             
         })
