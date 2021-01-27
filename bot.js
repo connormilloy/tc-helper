@@ -23,7 +23,7 @@ client.on('message', async message => {
     const args = message.content.slice(prefix.length).trim().split(/ +/);
     const command = args.shift().toLowerCase();
 
-    if(command==="whereami"){
+    /*if(command==="whereami"){
         const user = client.users.cache.get(ownerID);
         if(message.author.id === ownerID){
             let content = "";
@@ -39,7 +39,7 @@ client.on('message', async message => {
         }
 
         console.log("!!! WHEREAMI USED !!!");
-    }
+    }*/
     if(command ==="help"){
         let content = "";
         for(let i=0; i<commands.length; i++){
