@@ -10,12 +10,15 @@ async function searchMarket(item){
    
     for(let i = 0; i < item.length; i++){
         item[i] = item[i][0].toUpperCase() + item[i].substring(1);
+        if(item[i] === "Of"){
+            item[i] = "of";
+        }
     }
     const searchQuery = item.join(" ");
     //const searchQuery = itemStr.charAt(0).toUpperCase() + itemStr.slice(1);
 
     //dirty code to clean the search query up and capitalise the first letter of each word.
-    console.log(`ITEM MARKET SEARCH: ${searchQuery}`);
+    console.log(`!!! ITEM MARKET SEARCH: ${searchQuery} !!!`);
     let itemExport = [];
     let itemID;
     const maxSize = Object.keys(itemList.items).length + 3;
@@ -49,6 +52,7 @@ async function searchMarket(item){
                 itemExport.push(formatCurrency(jsonResponse.items[itemID].market_value));
                 itemExport.push(jsonResponse.items[itemID].image);
                 itemExport.push(itemID);
+                itemExport.push(jsonResponse.items[itemID].description);
             } else {
                 itemExport.push("n/a");
             }
@@ -71,4 +75,9 @@ function formatCurrency(price){
     return formatter.format(price);
 }
 
+function cleanNumbers(val){
+    const formatter = new Intl.NumberFormat('en-US', {
+        format: 'number'
+    })
+}
 exports.searchMarket = searchMarket;

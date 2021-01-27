@@ -1,0 +1,18 @@
+[
+    {
+        "cmd": "$stockslist",
+        "info": "Provides a list of valid stock IDs for use with the $stocks command."
+    },
+    {
+        "cmd": "$stocks (ID)",
+        "info": "Looks up the latest stock information for the ID you provided."
+    },
+    {
+        "cmd": "$player (ID)",
+        "info": "Looks up a player's profile from their XID (eg: $player 1522784) and provides basic information including level and current status."
+    },
+    {
+        "cmd": "$market (item)",
+        "info": "Searches the item market for your chosen item and returns the current lowest price."
+    }
+]

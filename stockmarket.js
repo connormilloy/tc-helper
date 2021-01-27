@@ -24,15 +24,15 @@ async function getStocks(stock){
                 output.push(jsonResponse.stocks[stockID].name);
                 output.push(jsonResponse.stocks[stockID].acronym);
                 output.push(jsonResponse.stocks[stockID].director);
-                output.push(jsonResponse.stocks[stockID].current_price);
-                output.push(jsonResponse.stocks[stockID].available_shares);
+                output.push(formatCurrency(jsonResponse.stocks[stockID].current_price));
+                output.push(cleanNumbers(jsonResponse.stocks[stockID].available_shares));
                 output.push(jsonResponse.stocks[stockID].forecast);
                 output.push(jsonResponse.stocks[stockID].demand);
                 
                 //if the user looks up the TCSE stock the entire json object is malformed. we need to only look for these fields if it's not TCSE.
                 if(stockID != 0){                  
                     //benefit block info
-                    output.push(jsonResponse.stocks[stockID].benefit.requirement);
+                    output.push(cleanNumbers(jsonResponse.stocks[stockID].benefit.requirement));
                     output.push(jsonResponse.stocks[stockID].benefit.description);
 
                     //historical stock info
@@ -40,7 +40,7 @@ async function getStocks(stock){
                     output.push(jsonResponse.stocks[stockID].history[0].price);
                     output.push(jsonResponse.stocks[stockID].history[0].change);
                 }
-                console.log(`STOCK MARKET SEARCH: ${stockRaw}`);
+                console.log(`!!! STOCK MARKET SEARCH: ${stockRaw} !!!`);
                 return output;
 
             } else {
@@ -54,6 +54,23 @@ async function getStocks(stock){
         output.push("not-found");
         return output;
     }
+}
+
+function formatCurrency(price){
+    const formatter = new Intl.NumberFormat('en-US', {
+        style: 'currency',
+        currency: 'USD',
+    });
+
+    return formatter.format(price);
+}
+
+function cleanNumbers(val){
+    const formatter = new Intl.NumberFormat('en-US', {
+        format: 'number'
+    });
+
+    return formatter.format(val);
 }
 
 exports.getStocks = getStocks;
