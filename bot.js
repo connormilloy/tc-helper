@@ -23,23 +23,19 @@ client.on('message', async message => {
     const args = message.content.slice(prefix.length).trim().split(/ +/);
     const command = args.shift().toLowerCase();
 
-    /*if(command==="whereami"){
-        const user = client.users.cache.get(ownerID);
+    if(command==="whereami"){
         if(message.author.id === ownerID){
             let content = "";
             client.guilds.cache.forEach(server => {
                 content += `${server.name} with the ID ${server.id}\n`;
             });
-
             const msg = "```" + content + "```";
             message.author.send(`Here is a list of servers that I'm currently added to. \n${msg}`);
         } else {
             message.channel.send(`You don't have permission to use this command, ${message.author}.`);
-            user.send(`The $whereami command was just used in one of my servers.`);
         }
-
-        console.log("!!! WHEREAMI USED !!!");
-    }*/
+    }
+    
     if(command ==="help"){
         let content = "";
         for(let i=0; i<commands.length; i++){
