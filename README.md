@@ -1,6 +1,6 @@
 # tc-helper
 <h1>Torn City Helper<h1>
-<h4>This is a bot which uses the discord.js library to provide players of [Torn City RPG](http://torn.com) a means of monitoring item and stock market values in their discord server.</h4>
+<h4>This is a bot which uses the discord.js library to provide players of http://torn.com a means of monitoring item and stock market values in their discord server.</h4>
 <br>
 <h2>Usage</h2>
 <ul>
